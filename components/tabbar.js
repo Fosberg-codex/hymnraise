@@ -94,10 +94,13 @@ const styles = StyleSheet.create({
         backgroundColor: 'white',
         marginHorizontal: 10,
         paddingVertical: 5,
-        borderRadius: 25,
+        borderRadius: 15,
+        borderWidth: 1,
+        borderStyle: 'solid',
+        borderColor: 'gray',
         borderCurve: 'continuous',
         shadowColor: 'black',
-        shadowOffset: {width: 0, height: 10},
+        shadowOffset: {width: 5, height: 10},
         shadowRadius: 10,
         shadowOpacity: 0.1
     }

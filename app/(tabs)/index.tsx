@@ -19,7 +19,7 @@ export default function App() {
         // Any other initialization tasks can go here
         
         // Artificial delay to keep splash screen for 5 seconds
-        await new Promise(resolve => setTimeout(resolve, 2000));
+        await new Promise(resolve => setTimeout(resolve, 1000));
       } catch (e) {
         console.warn(e);
       } finally {
@@ -43,7 +43,7 @@ export default function App() {
   }
 
   return (
-    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+    <View className='bg-bgcolor' style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       <Text>Your app content heredd</Text>
       <View>
       <Link push href="coponents/deam">Login</Link>
