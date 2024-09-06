@@ -3,9 +3,7 @@ import { View, Text, TouchableOpacity } from 'react-native';
 import { useRouter } from 'expo-router';
 import {data} from "../DATA.js"
 import { FlashList } from '@shopify/flash-list';
-import { Image } from 'react-native';
-import myImage from 'https://github.com/Fosberg-codex/hymnraise/blob/main/assets/side.png';
-
+import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 
 export default function Home() {
     
@@ -18,7 +16,7 @@ export default function Home() {
     <>
    
     <View className='flex-1 bg-bgcolor p-4'>
-     <Text>{data.length}</Text>
+     <Text className='mb-2'>{data.length}</Text>
      
 
      <FlashList
@@ -26,19 +24,23 @@ export default function Home() {
         renderItem={({ item }) => (
                 <TouchableOpacity
             className="p-4 m-rounded-lg"
-            onPress={() => router.push(`/hymn/${item.id}`)}
+            onPress={() => router.push(`/test/${item.id}`)}
           >
-            <View className='bg-cardcolor px-2 py-2 flex flex-row gap-1 mb-1 rounded-md'>
-            <Image source={{ uri: 'https://github.com/Fosberg-codex/hymnraise/blob/main/assets/side.png' }} style={{ width: 200, height: 200 }} />
+            <View className='bg-cardcolor px-4 py-2 flex justify-between flex-row gap-2 mb-1 rounded-md '>
             <View className='flex flex-col gap-1'>
-            <Text className="text-black text-lg">{item.title}</Text>
-            <Text className="text-black text-lg flex flex-row justify-end">Humn {item.number}</Text>
+            <Text className="text-black text-base font-bold">{item.title}</Text>
+            <Text className="text-black text-md flex flex-row justify-end">Humn {item.number}</Text>
             </View>
+
+            <View className='flex items-end justify-end'>
+            <MaterialIcons name="favorite-border" size={22} color="black" />
+            </View>
+
             </View>
 
           </TouchableOpacity>
         )}
-        estimatedItemSize={60}
+        estimatedItemSize={data.length}
       />
 
 </View>

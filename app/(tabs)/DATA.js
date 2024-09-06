@@ -1,24 +1,71 @@
-export const data =  [
-    {
-      id: "1",
-      number: "1",
-      title: "Amazing Grace",
-      description: "A hymn about God's grace and salvation.",
-      hymncontents:  "A hymn about God's grace and salvation."
-    },
-    {
-      id: "2",
-      number: "1",
-      title: "How Great Thou Art",
-      description: "A hymn that praises the greatness of God.",
-      hymncontents:  "A hymn about God's grace and salvation."
-    },
-    {
-      id: "3",
-      number: "1",
-      title: "Be Thou My Vision",
-      description: "A hymn asking God to be our guide and vision.",
-      hymncontents:  "A hymn about God's grace and salvation."
-    },
-    // Add more hymns here...
-  ];
+export const data = [
+  {
+    id: "1",
+    number: "1",
+    title: "How Great Thou Art",
+    description: "A hymn that praises the greatness of God.",
+    hymncontents: [
+      {
+        "stanza": 1,
+        "lines":  "Naawotwe da a edi kan no m\n" +
+        "Yε'Ayenkwa sore fi nna mu\n" +
+        "Owui, wosiee no, w'asore\n" +
+        "Se onni hene na onnye yen nkwa."
+      },
+      {
+        "stanza": "Nnyesoo",
+        "lines":  "Naawotwe da a edi kan no m\n" +
+        "Yε'Ayenkwa sore fi nna mu\n" +
+        "Owui, wosiee no, w'asore\n" +
+        "Se onni hene na onnye yen nkwa."
+      }
+    ]
+  },
+  {
+    id: "2",
+    number: "2",
+    title: "How Great Thou Art",
+    description: "A hymn that praises the greatness of God.",
+    hymncontents: [
+      {
+        "stanza": 1,
+        "lines":  "Naawotwe da a edi kan no m\n" +
+        "Yε'Ayenkwa sore fi nna mu\n" +
+        "Owui, wosiee no, w'asore\n" +
+        "Se onni hene na onnye yen nkwa."
+      },
+      {
+        "stanza": "Nnyesoo",
+        "lines":  "Naawotwe da a edi kan no m\n" +
+        "Yε'Ayenkwa sore fi nna mu\n" +
+        "Owui, wosiee no, w'asore\n" +
+        "Se onni hene na onnye yen nkwa."
+      }
+    ]
+  },
+
+  {
+    id: "3",
+    number: "3",
+    title: "How Great Thou Art",
+    description: "A hymn that praises the greatness of God.",
+    hymncontents: [
+      {
+        "stanza": 1,
+        "lines":  "Naawotwe da a edi kan no m\n" +
+        "Yε'Ayenkwa sore fi nna mu\n" +
+        "Owui, wosiee no, w'asore\n" +
+        "Se onni hene na onnye yen nkwa."
+      },
+      {
+        "stanza": "Nnyesoo",
+        "lines":  "Naawotwe da a edi kan no m\n" +
+        "Yε'Ayenkwa sore fi nna mu\n" +
+        "Owui, wosiee no, w'asore\n" +
+        "Se onni hene na onnye yen nkwa."
+      }
+    ]
+  },
+ 
+  // Add more hymns here...
+];
