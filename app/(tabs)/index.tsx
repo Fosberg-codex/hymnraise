@@ -1,51 +1,51 @@
 // App.js
 import React, { useEffect, useState } from 'react';
+import { useRouter } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { Link } from 'expo-router';
 import { View, Text, TouchableOpacity } from 'react-native';
-import { useRouter } from 'expo-router';
 import {data} from "./DATA.js"
 import { FlashList } from '@shopify/flash-list';
 import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 
 // Prevent the splash screen from auto-hiding
-SplashScreen.preventAutoHideAsync();
+// SplashScreen.preventAutoHideAsync();
 
 export default function App() {
   const [appIsReady, setAppIsReady] = useState(false);
 
 
-  useEffect(() => {
-    async function prepare() {
-      try {
-        // Keep the splash screen visible while we fetch resources
-        await SplashScreen.preventAutoHideAsync();
+  // useEffect(() => {
+  //   async function prepare() {
+  //     try {
+  //       // Keep the splash screen visible while we fetch resources
+  //       await SplashScreen.preventAutoHideAsync();
         
-        // Any other initialization tasks can go here
+  //       // Any other initialization tasks can go here
         
-        // Artificial delay to keep splash screen for 5 seconds
-        await new Promise(resolve => setTimeout(resolve, 1000));
-      } catch (e) {
-        console.warn(e);
-      } finally {
-        // Tell the application to render
-        setAppIsReady(true);
-      }
-    }
+  //       // Artificial delay to keep splash screen for 5 seconds
+  //       await new Promise(resolve => setTimeout(resolve, 1000));
+  //     } catch (e) {
+  //       console.warn(e);
+  //     } finally {
+  //       // Tell the application to render
+  //       setAppIsReady(true);
+  //     }
+  //   }
 
-    prepare();
-  }, []);
+  //   prepare();
+  // }, []);
 
-  useEffect(() => {
-    if (appIsReady) {
-      // This tells the splash screen to hide immediately
-      SplashScreen.hideAsync();
-    }
-  }, [appIsReady]);
+  // useEffect(() => {
+  //   if (appIsReady) {
+  //     // This tells the splash screen to hide immediately
+  //     SplashScreen.hideAsync();
+  //   }
+  // }, [appIsReady]);
 
-  if (!appIsReady) {
-    return null;
-  }
+  // if (!appIsReady) {
+  //   return null;
+  // }
 
   const router = useRouter()
 
