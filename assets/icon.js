@@ -3,11 +3,11 @@ import { AntDesign, Feather, Entypo, MaterialIcons, MaterialCommunityIcons, Font
 
 
 export const icons = {
-    test: (props)=> <MaterialCommunityIcons name="music-clef-treble" size={26} {...props} />,
-    index: (props)=> <MaterialCommunityIcons name="music-clef-treble" size={26} {...props} />,
-    news: (props)=> <Entypo name="newsletter" size={26} {...props} />,
-    settings: (props)=> <MaterialIcons name="admin-panel-settings" size={26} {...props} />,
-    favorites: (props)=> <MaterialIcons name="favorite" size={22} color="black" {...props} />,
-    fundraise: (props)=> <FontAwesome5 name="hands-helping" size={22} color="black" {...props} />,
+    hymn: (props)=> <MaterialCommunityIcons name="music-clef-treble" size={20} {...props} />,
+    // index: (props)=> <MaterialCommunityIcons name="music-clef-treble" size={26} {...props} />,
+    news: (props)=> <Entypo name="newsletter" size={17} {...props} />,
+    settings: (props)=> <MaterialIcons name="admin-panel-settings" size={20} {...props} />,
+    favorites: (props)=> <MaterialIcons name="favorite" size={17} color="black" {...props} />,
+    fundraise: (props)=> <FontAwesome5 name="hands-helping" size={17} color="black" {...props} />,
     
 }

@@ -2,18 +2,25 @@ import FontAwesome from "@expo/vector-icons/FontAwesome";
 import { Tabs } from "expo-router";
 import TabBar from "../../components/tabbar";
 
+
 export default function TabLayout() {
   return (
     <Tabs
       tabBar={(props) => <TabBar {...props} />}
-      screenOptions={{ tabBarActiveTintColor: "blue" }}
+      screenOptions={({ route }) => ({
+        tabBarActiveTintColor: "blue",
+        // Hide the tab bar on the index page
+        tabBarStyle: route.name === 'index' ? { display: 'none' } : undefined,
+      })}
     >
+      {/* Remove the Tabs.Screen for "index" */}
       <Tabs.Screen
-        name="index"
+        name="hymn"
         options={{
-          title: "Hymn",
+          title: "hymns",
+          headerShown: false,
           tabBarIcon: ({ color }) => (
-            <FontAwesome size={28} name="home" color={color} />
+            <FontAwesome size={22} name="cog" color={color} />
           ),
         }}
       />
@@ -21,19 +28,22 @@ export default function TabLayout() {
       <Tabs.Screen
         name="fundraise"
         options={{
-          title: "fundraise",
+          title: "help",
+          headerShown: false,
           tabBarIcon: ({ color }) => (
-            <FontAwesome size={28} name="cog" color={color} />
+            <FontAwesome size={22} name="cog" color={color} />
           ),
         }}
       />
 
-<Tabs.Screen
+      <Tabs.Screen
         name="favorites"
+        
         options={{
           title: "favorites",
+          headerShown: false,
           tabBarIcon: ({ color }) => (
-            <FontAwesome size={28} name="cog" color={color} />
+            <FontAwesome size={22} name="cog" color={color} />
           ),
         }}
       />
@@ -42,8 +52,9 @@ export default function TabLayout() {
         name="news"
         options={{
           title: "news",
+          headerShown: false,
           tabBarIcon: ({ color }) => (
-            <FontAwesome size={28} name="cog" color={color} />
+            <FontAwesome size={22} name="cog" color={color} />
           ),
         }}
       />
@@ -52,13 +63,12 @@ export default function TabLayout() {
         name="settings"
         options={{
           title: "Settings",
+          headerShown: false,
           tabBarIcon: ({ color }) => (
-            <FontAwesome size={28} name="cog" color={color} />
+            <FontAwesome size={22} name="cog" color={color} />
           ),
         }}
       />
-
-      
     </Tabs>
   );
 }

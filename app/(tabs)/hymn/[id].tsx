@@ -1,8 +1,8 @@
 // app/hymn/[id].js
 import { View, Text } from 'react-native';
 import { useRouter, useLocalSearchParams } from 'expo-router';
-import { data } from "../DATA.js";
-
+import { data } from "../Twi.js";
+import { ScrollView } from 'react-native'
 export default function HymnDetail() {
   const { id } = useLocalSearchParams();
   const hymn = data.find((item) => item.id === id);
@@ -16,8 +16,8 @@ export default function HymnDetail() {
   }
 
   return (
-    <View className="flex-1 items-center  bg-bgcolor" key={hymn.id}>
-      <Text className="text-2xl font-bold mt-16">{hymn.title}</Text>
+    <ScrollView className="flex-1  bg-bgcolor" key={hymn.id}>
+      <Text className="text-2xl font-bold mt-16 self-center">{hymn.title}</Text>
       <View className='flex flex-col items-center'>
       { hymn && hymn.hymncontents.map( hymn =>( <>
         <Text className="mt-2 text-lg font-bold">{hymn.stanza}</Text>
@@ -26,6 +26,6 @@ export default function HymnDetail() {
       ))
       }
       </View>
-    </View>
+    </ScrollView>
   );
 }

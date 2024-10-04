@@ -9,7 +9,7 @@ const TabBar = ({ state, descriptors, navigation }) => {
     const primaryColor = '#0891b2';
     const greyColor = '#737373';
   return (
-    <View style={styles.tabbar}>
+    <View style={styles.tabbar} >
       {state.routes.map((route, index) => {
         const { options } = descriptors[route.key];
         const label =
@@ -96,10 +96,9 @@ const styles = StyleSheet.create({
         paddingVertical: 5,
         borderRadius: 15,
         borderWidth: 1,
-        borderStyle: 'solid',
-        borderColor: 'gray',
+        borderColor: '#e5e7eb',
         borderCurve: 'continuous',
-        shadowColor: 'black',
+        shadowColor: '#e5e7eb',
         shadowOffset: {width: 5, height: 10},
         shadowRadius: 10,
         shadowOpacity: 0.1

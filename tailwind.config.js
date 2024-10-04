@@ -6,7 +6,8 @@ module.exports = {
     extend: {
       colors: {
         'bgcolor': '#FFF8B5',
-        'cardcolor': '#DAA363'
+        'cardcolor': '#E0BE8B',
+        'deep':'#2C1810'
       }
     }
   },
