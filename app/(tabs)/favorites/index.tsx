@@ -1,11 +1,12 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, Pressable } from 'react-native';
 import { Link, useRouter } from 'expo-router';
-import {data} from "../../English.js"
+import {data} from "../Twi.js"
 import { FlashList } from '@shopify/flash-list';
 import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 import { TextInput } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
+import { ScrollView } from 'react-native-reanimated/lib/typescript/Animated.js';
 
 export default function Home() {
     const [search, setSearch] = React.useState('');
@@ -13,8 +14,8 @@ export default function Home() {
   const router = useRouter()
 
   const hymnLang = [
-    {language: 'Twi', link: '/hymn/'},
-    {language: 'Ga', link: '/hymn/'},
+    {language: 'English', link: '/hymn/english'},
+    {language: 'Ga', link: '/hymn/english'},
   ]
   const handleSearch = () => {  }
 
@@ -23,17 +24,11 @@ export default function Home() {
   return (
     <>
    
-    <View className='flex-1 flex flex-col justify-center gap-4 w-full bg-bgcolor px-4 pb-4 py-16'>
-    <Text className='font-semibold text-3xl '>COC English Hymnal</Text>
-
-    <View className=' flex flex-row items-center gap-3'>
-        
-        <Pressable onPress={() =>{router.replace('/hymn/')}} ><Text className='font-semibold rounded-full border border-deep/40  px-2 py-1'>Twi</Text></Pressable>
-        <Pressable onPress={() =>{router.replace('/hymn/english')}} ><Text className='font-semibold rounded-full text-bgcolor  bg-deep border px-2 py-1'>English</Text></Pressable>
-        <Pressable onPress={() =>{router.replace('/hymn/english')}} ><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>Ga</Text></Pressable>
-      </View>
+    <View className='flex-1 flex flex-col items-center gap-4 w-full bg-bgcolor px-4 pb-4 py-16'>
+    <Text className='font-semibold text-xl'>All fvorites</Text>
+      {/* 
     
-    {/* <FlashList
+    <FlashList
         data={hymnLang}
         renderItem={({ item }) => (
                 <>
@@ -43,7 +38,7 @@ export default function Home() {
                 </>
         )}
         horizontal={true}
-        showsHorizontalScrollIndicator={false}
+        // showsHorizontalScrollIndicator={false}
         estimatedItemSize={5}
       /> */}
 
@@ -62,7 +57,7 @@ export default function Home() {
    </View>
      
 
-     <FlashList
+     {/* <FlashList
         data={data}
         renderItem={({ item }) => (
                 <TouchableOpacity
@@ -84,7 +79,7 @@ export default function Home() {
           </TouchableOpacity>
         )}
         estimatedItemSize={data.length}
-      />
+      /> */}
 
 </View>
 

@@ -25,9 +25,17 @@ export default function Home() {
     <>
    
     <View className='flex-1 flex flex-col justify-center gap-4 w-full bg-bgcolor px-4 pb-4 py-16'>
-      <Text className='font-semibold text-lg'>Christo Asore Nwom (Twi Hymnal)</Text>
+      <Text className='font-semibold text-3xl'>Christo Asore Nwom (Twi Hymnal)</Text>
     
-    <FlashList
+
+      <View className=' flex flex-row items-center gap-3'>
+        
+        <Pressable onPress={() =>{router.push('/hymn/')}} ><Text className='font-semibold rounded-full bg-deep border text-bgcolor px-2 py-1'>Twi</Text></Pressable>
+        <Pressable onPress={() =>{router.push('/hymn/english')}} ><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>English</Text></Pressable>
+        <Pressable onPress={() =>{router.push('/hymn/english')}} ><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>Ga</Text></Pressable>
+      </View>
+    
+    {/* <FlashList
         data={hymnLang}
         renderItem={({ item }) => (
                 <>
@@ -37,9 +45,9 @@ export default function Home() {
                 </>
         )}
         horizontal={true}
-        // showsHorizontalScrollIndicator={false}
+        showsHorizontalScrollIndicator={false}
         estimatedItemSize={5}
-      />
+      /> */}
 
     <View className='flex flex-row gap-6 items-center w-full mb-2'>
           <TextInput

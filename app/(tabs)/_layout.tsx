@@ -26,9 +26,9 @@ export default function TabLayout() {
       />
 
       <Tabs.Screen
-        name="fundraise"
+        name="church"
         options={{
-          title: "help",
+          title: "church updates",
           headerShown: false,
           tabBarIcon: ({ color }) => (
             <FontAwesome size={22} name="cog" color={color} />
@@ -41,17 +41,6 @@ export default function TabLayout() {
         
         options={{
           title: "favorites",
-          headerShown: false,
-          tabBarIcon: ({ color }) => (
-            <FontAwesome size={22} name="cog" color={color} />
-          ),
-        }}
-      />
-
-      <Tabs.Screen
-        name="news"
-        options={{
-          title: "news",
           headerShown: false,
           tabBarIcon: ({ color }) => (
             <FontAwesome size={22} name="cog" color={color} />
