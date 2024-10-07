@@ -26,7 +26,7 @@ const index = () => {
         data={podcasts}
         renderItem={({ item }:any) => (
                 <>
-                <Pressable onPress={()=>{router.push(`${item.link1}`)}} className='flex flex-row gap-1 justify-between items-center px-4 py-2 mx-4 mb-3 rounded bg-deep/20'>
+                <Pressable key={item.id} onPress={()=>{router.push(`${item.link1}`)}} className='flex flex-row gap-1 justify-between items-center px-4 py-2 mx-4 mb-3 rounded bg-deep/20'>
                 <View>
                   <Image
                   style={{ height: 70, width: 75, borderRadius: 5 }}

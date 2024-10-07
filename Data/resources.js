@@ -1,5 +1,6 @@
 export const resources =[
     {
+        id:'1',
         title: "The history of the church",
         description: "This is a good pamphlet to know more about how the church was founded",
         tags:["church history", "doctrines"],
@@ -9,6 +10,7 @@ export const resources =[
 
     },
     {
+        id:'2',
         title: "The history of the church",
         description: "This is a good pamphlet to know more about how the church was founded",
         tags:["history", "doctrines"],

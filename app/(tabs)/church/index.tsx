@@ -22,7 +22,7 @@ const index = () => {
         data={resources}
         renderItem={({ item }:any) => (
                 <>
-                <Pressable onPress={()=>{router.push(`${item.link1}`)}} className='flex flex-col gap-1 justify-center items-start px-4 py-2 mx-4 mb-3 rounded bg-deep/20'>
+                <Pressable key={item.id} onPress={()=>{router.push(`${item.link1}`)}} className='flex flex-col gap-1 justify-center items-start px-4 py-2 mx-4 mb-3 rounded bg-deep/20'>
                   <Text className='text-lg font-semibold'>{item.title}</Text>
                   <Text className='text-deep/90'>{item.description}</Text>
                   <View className='flex flex-row gap-2 items-center'>

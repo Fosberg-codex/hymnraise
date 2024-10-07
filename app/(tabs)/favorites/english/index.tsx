@@ -2,14 +2,15 @@ import React, { useState, useMemo } from 'react';
 import { View, Text, TouchableOpacity, TextInput, Pressable } from 'react-native';
 import { useRouter } from 'expo-router';
 import { FlashList } from '@shopify/flash-list';
+import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { Ionicons } from '@expo/vector-icons';
-import useFavoritesStore from '../../../favoriteStore/favorites';
+import useEnglishfavStore from '../../../../favoriteStore/englishfav';
 import Fuse from 'fuse.js';
 
 export default function Favorites() {
   const router = useRouter();
-  const { favorites, removeFavorite } = useFavoritesStore();
+  const { favorites, removeFavorite } = useEnglishfavStore();
   const [search, setSearch] = useState('');
 
   const fuse = useMemo(() => new Fuse(favorites, {
@@ -25,10 +26,10 @@ export default function Favorites() {
 
   return (
     <View className='flex-1 flex flex-col  gap-4 w-full bg-bgcolor px-4 pb-4 py-16'>
-      <Text className='font-semibold text-3xl'>Twi Favorites</Text>
+      <Text className='font-semibold text-3xl'>English Favorites</Text>
       <View className='flex flex-row items-center gap-3'>
-        <Pressable onPress={() => router.push('/favorites/')}><Text className='font-semibold rounded-full bg-deep border text-bgcolor px-2 py-1'>Twi</Text></Pressable>
-        <Pressable onPress={() => router.push('/favorites/english')}><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>English</Text></Pressable>
+        <Pressable onPress={() => router.push('/favorites/')}><Text className='font-semibold  border  px-2 py-1 rounded-full  border-deep/40'>Twi</Text></Pressable>
+        <Pressable onPress={() => router.push('/favorites/english')}><Text className='font-semibold rounded-full bg-deep text-bgcolor  px-2 py-1'>English</Text></Pressable>
         <Pressable onPress={() => router.push('/favorites/english')}><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>Ga</Text></Pressable>
       </View>
 
@@ -47,7 +48,7 @@ export default function Favorites() {
 
       {filteredFavorites.length === 0 ? (
         <Text className='text-center text-gray-500'>
-          {favorites.length === 0 ? 'No Twi favorites yet' : 'No matching favorites found'}
+          {favorites.length === 0 ? 'No English favorites yet' : 'No matching favorites found'}
         </Text>
       ) : (
         <FlashList
@@ -55,7 +56,7 @@ export default function Favorites() {
           renderItem={({ item }:any) => (
             <TouchableOpacity
               className="p-4 m-rounded-lg"
-              onPress={() => router.push(`/hymn/${item.id}`)}
+              onPress={() => router.push(`/hymn/english/${item.id}`)}
             >
               <View className='bg-cardcolor px-4 py-2 flex justify-between flex-row gap-2 mb-1 rounded-md'>
                 <View className='flex flex-col gap-1'>
@@ -63,7 +64,7 @@ export default function Favorites() {
                   <Text className="text-black text-md flex flex-row justify-end">Hymn {item.number}</Text>
                 </View>
                 <TouchableOpacity onPress={() => removeFavorite(item.id)}>
-                  <MaterialCommunityIcons name="heart-remove" size={22} color="#2c1810" />
+                <MaterialCommunityIcons name="heart-remove" size={22} color="#2c1810" />
                 </TouchableOpacity>
               </View>
             </TouchableOpacity>

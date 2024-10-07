@@ -7,6 +7,7 @@ export default function Layout() {
     <Stack>
       <Stack.Screen name="index"  options={{ title: "Hymn", headerShown: false }} />
       <Stack.Screen name="[id]" options={{ title: "Hymn", headerShown: false }} />
+      <Stack.Screen name="english" options={{ title: "englishfav", headerShown: false }} />
     </Stack>
   );
 }
