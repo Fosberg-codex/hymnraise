@@ -5120,6 +5120,337 @@ export const data = [
         }
       ]
     },
+    {
+      "id": "123",
+      "number": "123",
+      "title": "MESI HANN NO MU",
+      "description": "A hymn about walking in the light of the Lord and following His guidance with joy.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Yɛrenante Agyenkwa anamɔn mu\n" +
+                   "Yɛredi yɛn Agyenkwa ne hene akyi\n" +
+                   "Yɛde ne nsɛnnam yɛ no bu yɛn bra\n" +
+                   "Nigye, anigye nwom na yɛde ba."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Ɛyɛ fɛ sɛ yɛ bɛ nante\n" +
+                   "Agyenkwa anamɔn mu\n" +
+                   "Yɛsi hann no mu, yɛsi hann no mu\n" +
+                   "Ɛyɛ fɛ sɛ yɛ nante Agyenkwa anamɔn mu\n" +
+                   "Hann akwan no mu."
+        },
+        {
+          "stanza": 2,
+          "lines": "Yɛtwe pini de, ɛdi yɛanim no ho\n" +
+                   "Sɛ sɛhwɛ ma yɛfi kwan no mu a\n" +
+                   "Yɛdan basa denden, ɛbɔ yɛn ho ban\n" +
+                   "Nigye mu na yɛyi n'ayɛ daa."
+        },
+        {
+          "stanza": 3,
+          "lines": "Yɛrenante Agyenkwa anamɔn mu\n" +
+                   "Yɛdi yɛn kwankyerɛfoɔ n'akyi kɔ soro\n" +
+                   "Sɛ yɛhu yɛn hene wɔ n'ahoɔfɛ mu\n" +
+                   "Nigye mu na yɛbɛtena ne nkyɛn."
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "number": "124",
+      "title": "ASAASE FƐ NTI",
+      "description": "A hymn praising the beauty and wonders of creation, expressing gratitude to the Lord for His creation of the earth and the universe.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Asaase fɛ a ɛyɛ nti\n" +
+                   "Ewiem anuonyam nti\n" +
+                   "Ne dɛ a ɛfi yɛawoɔ mu\n" +
+                   "Atwa yɛn ho ahyia no."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Yɛn wura yɛ de ayɛyi\n" +
+                   "Nwom yi reda wo ase."
+        },
+        {
+          "stanza": 2,
+          "lines": "Adekyee ne adesae\n" +
+                   "Mu dɛn biara ahoɔfɛ nti\n" +
+                   "Kokoɔ, abun, dua ne nhwiren\n" +
+                   "Wi, ɔsram ne nsoroma nti."
+        },
+        {
+          "stanza": 3,
+          "lines": "Nnipa dɛ mu anigye nti\n" +
+                   "Onua, wofoɔ ne ɔba\n" +
+                   "Ase ha ne soro nnamfo\n" +
+                   "Adwen pa ne ɔdwoɔ nti."
+        },
+        {
+          "stanza": 4,
+          "lines": "Wo asafo nsa kronkron a\n" +
+                   "Wɔm'a so aman nyinaa mu\n" +
+                   "De dɛ afɔdeɛ a ɛho te\n" +
+                   "Brɛ wo merɛ nyinaa mu nti."
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "number": "125",
+      "title": "ƐNE ME NTENA",
+      "description": "A hymn asking the Lord to stay close during times of uncertainty and night, seeking His guidance and peace until the morning light.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Ɛne me ntena o m’agyenkwa\n" +
+                   "Ɛda yi retwa mu akɔ\n" +
+                   "Hwɛ sɛ enwunu no retɔ\n" +
+                   "Na ade nso resa."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Ɛne me ntena m’agyenkwa hyirafo\n" +
+                   "Ka me ho kosi adekyee\n" +
+                   "Wo nnka me ho a me yɛ ankonam\n" +
+                   "Ɛne me ntena anadwo yi nyinaa."
+        },
+        {
+          "stanza": 2,
+          "lines": "Adesae no re yɛ duru\n" +
+                   "Na owia no retɔ\n" +
+                   "Ɛwu anadwo rebɛn ntɛm\n" +
+                   "Mɛyɛ ahomgye mere anaa?"
+        },
+        {
+          "stanza": 3,
+          "lines": "Ɛne me ntena o m’agyenkwa\n" +
+                   "Fa me ti to wo bo mu\n" +
+                   "Kosi sɛ mɛnyane anɔpa\n" +
+                   "Daa home anɔpa no."
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "number": "126",
+      "title": "ƐBIA ƐKYENA RENTO YƐN",
+      "description": "A hymn reflecting on the uncertainty of tomorrow and the need to trust in God's timing.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Yɛnntumi nhunu adekyeɛ mu nsɛm\n" +
+                   "Bere a owia repue no\n" +
+                   "Sɛ twafo no bɛfrɛ yɛn akɔ\n" +
+                   "Ansa na onwunu adwo."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Ɛbia ɛkyena rento yɛn\n" +
+                   "Yenim bereko ne ase\n" +
+                   "Nyame frɛ yɛn kɔ bere a ɛbara yɛdɛ\n" +
+                   "Yɛn nipadua kɛdɛteɛ m’\n" +
+                   "Yɛn kra bɛsi apinii kyena\n" +
+                   "Nnepa atwa yɛn ho kɔ nti\n" +
+                   "Ɛkra yɛ ahoboa, kɔdi soro dɛ bi\n" +
+                   "Ɛbia ɛkyena rento yɛn."
+        },
+        {
+          "stanza": 2,
+          "lines": "Yɛ bu yɛn bra wɔ asaase yi so\n" +
+                   "Sɛdeɛ ɛrentwam da\n" +
+                   "Yɛwerɛfi Nyame wɔ asetra mu\n" +
+                   "Ma adamfo pa yi werɛ ho."
+        },
+        {
+          "stanza": 3,
+          "lines": "Nyame di yɛanim da biara mu\n" +
+                   "Ɔbɛyi yɛ nnesoa\n" +
+                   "Ɔde adom pii ahyɛ yɛn bo\n" +
+                   "Sɛ yɛ gyedi ampa a."
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "number": "127",
+      "title": "WO ANOYI BɛYƐ SƐN?",
+      "description": "A hymn reflecting on judgment day and the final evaluation of one's life. It encourages deep self-reflection on one's actions and decisions.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Da bi wo bɛgyina atɛnmu mu\n" +
+                   "Da bi wo bɛhu wo nwuma\n" +
+                   "Da bi wobɛyi wo abrabɔ ano\n" +
+                   "W’anoyi bɛyɛ sɛn?"
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Ɛbɛyɛ sɛn, ɛbɛyɛ sɛn\n" +
+                   "Ɛhe na wo bɛdi daa nkwa no\n" +
+                   "Ɛbɛyɛ sɛn, o ɛbɛyɛ sɛn\n" +
+                   "Wo anoyi bɛyɛ sɛn?"
+        },
+        {
+          "stanza": 2,
+          "lines": "Sɛ wonnyɛɛ ahoboa wo ho bɛ po\n" +
+                   "Na woabu nkotodwe\n" +
+                   "Wo bɛgyina kumfoɔ anaa bemdie anoɔ\n" +
+                   "Atɛn no bɛyɛ sɛn?"
+        },
+        {
+          "stanza": 3,
+          "lines": "M’adamfo seesei ne ahoboa merɛ\n" +
+                   "Yi wo kra ho fi nyinaa\n" +
+                   "Ma deɛ wɔbɛɛ n’asennuam mogya\n" +
+                   "Nhoro wo ho\n" +
+                   "Ɛno na ɛbɛdi ama wo."
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "number": "128",
+      "title": "TO DWOM MA W'ANINYE",
+      "description": "A hymn encouraging faith, praise, and joy even in difficult times, reminding believers to focus on Jesus and the promise of better days ahead.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Sε ewie mu ayε basaa\n" +
+                   "Na wo werε aho\n" +
+                   "Sε wadesoa mu ayεdu\n" +
+                   "Da mu no nyinaa\n" +
+                   "Sika nterεmu bi a εhyerεn\n" +
+                   "Wɔ soro asaase so\n" +
+                   "Fa gyedie hwε na hu me nua\n" +
+                   "Gyina ne bɔhyε kεse so."
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": "To dwom na ma w'aninye nnε\n" +
+                   "Pem so kɔ botae ho\n" +
+                   "Twerε deε ɔkyerε wo kwan no\n" +
+                   "Ɔrehwε wok era so\n" +
+                   "Ma wiase nhu deε wogyina\n" +
+                   "Hwε Yesu na bɔ mpae\n" +
+                   "Ma wone so na yi nayε\n" +
+                   "To dwom ma w'aninye nnε."
+        },
+        {
+          "stanza": 2,
+          "lines": "Yεtaa yε mmerε amaneε mu\n" +
+                   "Yεdi awerε hoɔ ne yea\n" +
+                   "Εbinom te bɔne mub nso\n" +
+                   "wɔn wɔ wiase ahonya\n" +
+                   "Mma woabam mmu yεntumi nkyerε\n" +
+                   "Dea ɔkyena de bεba\n" +
+                   "Sε munumkum yi twam kɔ a\n" +
+                   "Woakoma bεto dwom paa."
+        },
+        {
+          "stanza": 3,
+          "lines": "Yenntaa nhu nyankontɔn no a\n" +
+                   "εba ewie mu no\n" +
+                   "Berε a ayε sε wiase ahonya\n" +
+                   "atwa yεn ho kɔ no\n" +
+                   "Neεma bi wɔ hɔ a εsom bo\n" +
+                   "sen sika ne dwetε\n" +
+                   "Sε yεtwere no da biara a,\n" +
+                   "yε bεnya anigye mmoroso."
+        }
+      ]
+    },
+    {
+      "id": "129",
+      "number": "129",
+      "title": "TI KRONKRON",
+      "description": "A hymn reflecting on the suffering of Christ, particularly focusing on His crown of thorns and the contrast between His glory and His humiliation.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "O ti kronkron a wapira\n" +
+                   "Aniwuo ahyε wo so\n" +
+                   "Wɔdi wo ho fε hyia\n" +
+                   "Wo ahenkyε yε nkaseε\n" +
+                   "Awerεhoɔ ama wo ayε hoyaa\n" +
+                   "Na wɔbɔ wo adapaa\n" +
+                   "Anim a merε bi hyerεn sen wi\n" +
+                   "N'afei abɔnfu yi."
+        },
+        {
+          "stanza": 2,
+          "lines": "O nkwa ne animuonyam wura\n" +
+                   "Na wote anigyeεm\n" +
+                   "Ma kekan anwanwa sεm yi\n" +
+                   "Me pε sε wo yε me de\n" +
+                   "Wo awerεho ne ayamhyehye\n" +
+                   "Yε abɔnefoɔ dea\n" +
+                   "Me na me yε maratoni\n" +
+                   "Na wo hu ho amane."
+        },
+        {
+          "stanza": 3,
+          "lines": "Asεm bεn mpo na mεfεm\n" +
+                   "Ada wase soro adamfoɔ\n" +
+                   "Wo awerεhoɔ wuo yi\n" +
+                   "Wo ahymɔbɔ a εnni awieε\n" +
+                   "Na mma me ntɔ baha\n" +
+                   "Me wura mma me dɔ mu ngo\n" +
+                   "Na wo da biara da."
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "number": "130",
+      "title": "ASOMDWOE, NYAME DƆ AKYƐDEƐ",
+      "description": "A hymn celebrating the peace that comes from God's love, emphasizing it as a gift and the result of Christ's sacrifice.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Nkate ɛdεdε ba makomam\n" +
+                   "ɛyε ahosεpε dwom bi\n" +
+                   "Mekɔso to no merε nyinaa\n" +
+                   "Somdwoe Nyame dɔ akyεdeε"
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": "Somdwoe dεεdε\n" +
+                   "Somdwoe nwanwa a εfi soro\n" +
+                   "Oh, asomdwoe, somdwoe nwanwa\n" +
+                   "Somdwoe Nyame dɔ akyεdeε."
+        },
+        {
+          "stanza": 2,
+          "lines": "Kristo gye asomdwoe asendua so\n" +
+                   "ɔde ne wuo tuaa me ka nyinaa\n" +
+                   "Obi nto fapem foforɔ bi\n" +
+                   "Somdwoe Nyame dɔ akyεdeε."
+        },
+        {
+          "stanza": 3,
+          "lines": "Berε a me faa Yesu sε me wura\n" +
+                   "Makoma nyaa saa asomdwoe yi\n" +
+                   "Ne mu mεnya nhyira mapa\n" +
+                   "Somdwoe Nyame dɔ akyεdeε"
+        },
+        {
+          "stanza": 4,
+          "lines": "Mete Yesu mu pε asomdwoe\n" +
+                   "Na mekɔso twi bεn no yi\n" +
+                   "Asomdwoe nkutoo na menya\n" +
+                   "Somdwoe Nyame dɔ akyεdeε."
+        }
+      ]
+    },
+    
+    
+    
+    
+    
     
     
     
