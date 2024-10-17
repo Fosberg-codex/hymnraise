@@ -5446,7 +5446,950 @@ export const data = [
         }
       ]
     },
+    {
+      "id": "131",
+      "number": "131",
+      "title": "HWAN NA ƆGYINA ME PON AKYI?",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "Hwan na ɔgyina me pon akyi\n",
+            "Na ɔrebɛn me brɛoo i\n",
+            "Na ɔrebɔm pɛ sɛ ɔbam yi?\n",
+            "Hwan nne na mete yi?\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "Ne nne gyegye dɛɛdɛ sɛ\n",
+            "Bue ɛpon no ma me\n",
+            "Sɛ wotie me frɛ yi a\n",
+            "me ne wo bɛtena.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "Ɔno nko na ɔgyina akyi hɔ\n",
+            "Me nko ma mehyɛ mu\n",
+            "Na meda so retwɛn yi\n",
+            "Wabu me fɔ a akɔ wum.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "Mɛka me ho abɛbue\n",
+            "Mekoma pono no\n",
+            "ɔka manim twe maso deɛ\n",
+            "ɔne me bɛtena.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "132",
+      "number": "132",
+      "title": "MENIM SƐ MEGYEFOɔ TE ASE",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "Menim sɛ me gyefoɔ te ase\n",
+            "Na ɔbɔ mpae ma me\n",
+            "Menim daa nkwa a ɔde mae\n",
+            "Fi bɔne ne awerɛhoɔ m'.\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "Menim menim se megyefoɔ te ase\n",
+            "Menim, menim daa nkwa a ɔde ma\n",
+            "Menim, menim sɛ megyefoɔ te ase\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "ɔpɛ sɛ me yɛ kronkron\n",
+            "Kasam'adwenem,neyɛem\n",
+            "Na ma hu n'anim kronkronno\n",
+            "Bere a mɛfi asaase yi so.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "Menim sɛ ne gyeɛ adom no\n",
+            "Wɔ hɔ ma abɔne foɔ\n",
+            "Menim sɛ ɔbɛba bio abɛfa\n",
+            "M'akɔ fie wɔ soro hɔ.\n"
+          ]
+        },
+        {
+          "stanza": 4,
+          "lines": [
+            "Menim sɛ wasiesie baabi\n",
+            "Wɔ nohoaa ama me\n",
+            "Efie , a wanfa nsa ansi\n",
+            "Na ɛyɛ fɛ kyɛn so.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "133",
+      "number": "133",
+      "title": "ƐNTI ƐYƐ MA WO KRA?",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "ɔbra yi brɛ ne abɛbrɛsɛ yi mu\n",
+            "So ɛyɛ, so ɛyɛ maw okra\n",
+            "Woabu wo bra yie sɛ so wu anadwo yi?\n",
+            "So ɛyɛ, so ɛyɛ ma wo kra?\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "So ɛyɛ, so ɛyɛ\n",
+            "Ma w okra, ma w okra\n",
+            "Wode wo ho anigye ɛm\n",
+            "Wobu wo bra yie sɛ wu anadwo yi?\n",
+            "So ɛyɛ, so ɛyɛ ma wo kra?\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "Wo ho bɔne asa, na woakomam te?\n",
+            "So ɛyɛ, so ɛyɛ ma w okra/\n",
+            "Wo wɔ deɛ wɔbɔ n'asɛnnuma no afa\n",
+            "So ɛyɛ, so ɛyɛ ma wo kera?\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "Woyi ɔsoroni no dɔ no ayɛ?\n",
+            "So ɛyɛ, so ɛyɛ ma w okra\n",
+            "Wobenya ahenkyɛ ne Awurade amo\n",
+            "So ɛyɛ, so ɛyɛ ma w okra?\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "number": "134",
+      "title": "SƐ AHOTEFOɔ Kɔ ƐSORO A",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "To Yesu dɔ nwanwa ho dwom\n",
+            "N';ahummɔborɔ ne n'adom\n",
+            "Adan pa a wahyira so mu\n",
+            "Na ɔbɛpɛ baabi ama yɛn.\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "Sɛ ahyirafoɔ kɔ soro\n",
+            "ɛbɛyɛ ahosɛpɛ da kɛse\n",
+            "Sɛ ahyirafoɔ hu Yesu a\n",
+            "Wɔbɛtea ɛma ato nkonimdeɛ.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "Yɛretu ɔsoro kwan yi\n",
+            "Munumkum bɛyɛ wiea mu tumm\n",
+            "Sɛ akwantu nna ba awieɛ a\n",
+            "Yɛnsi apinii nye akyinnye.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "ɛnto moma yɛn ni nokorɛ\n",
+            "Ntwere no, nsom no daa nyinaa\n",
+            "Sɛ yɛ hu n'animuonyam prɛko pɛ a\n",
+            "Na yɛadwuma akatua aba.\n"
+          ]
+        },
+        {
+          "stanza": 4,
+          "lines": [
+            "Yɛnpim nkɔ yɛn botae no ho\n",
+            "ɛnkyɛ yɛbɛhu n'ahoɔfɛ\n",
+            "ɛnkyɛ apono bɛbue\n",
+            "Na yɛnante sika akwan so.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "number": "135",
+      "title": "YƐBƐHUNU ɔHENE NO DA BI",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "Sɛ yɛn kwan no mu\n",
+            "Taa yɛ hu sɛn ara a\n",
+            "Yɛbɛhu hɛn hene da bi\n",
+            "Saa anɔpa no munumkum bɛfi hɔ\n",
+            "Yɛbɛhu yɛn hene da bi.\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "Yɛbɛhu yɛn hene da bi\n",
+            "Yɛbɛteam ato dwom da bi\n",
+            "Yɛbɛhyia n'anim na ɔbɛfrɛ ne mma\n",
+            "Yɛbɛhu yɛn hene da bi.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "Yea ne awerɛhoɔ akyi\n",
+            "Berɛ ne amaneɛ akyi\n",
+            "Yɛbɛhu yɛn hene da bi\n",
+            "Daa nkwa no mu\n",
+            "Yɛbɛkyɛ anigyeɛ ne nhyira\n",
+            "Yɛbɛhu yɛn hene da bi.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "Sɛ yɛdi atamfoɔ so\n",
+            "Na yɛdi nkonima\n",
+            "Yɛbɛhu yɛn hene da bi\n",
+            "ɔSɛ yɛn brɛ yi twa mu\n",
+            "Na owia tɔ a\n",
+            "Yɛbɛhu yɛn hene da bi\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "number": "136",
+      "title": "O WO NHIRA NYINAA ABURA",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "O wo nhyira nyinaa aburaa\n",
+            "Ma me koma nka woadom\n",
+            "Ahumɔbɔ nsuo a ɛntwa da\n",
+            "Sɛ ayɛyie nnwom kɛse\n",
+            "Kyerɛ me na me ntontom wo daa\n",
+            "Na me nyi papa adi\n",
+            "Bere a daa ani'onyam anidaso\n",
+            "ɔDedɛ ne dɔ hyɛ me mu.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "Ha na mesi m'Ebenezer\n",
+            "Deɛ w'adom de me abɛdu\n",
+            "Na mesrɛ sɛ fi wo pɛ mu\n",
+            "Fa me kɔdu fie dwoodwoo\n",
+            "Yesu frɛɛ me berɛ a me yɛ hɔhoɔ\n",
+            "Na ma year afi ne nnwan mu\n",
+            "ɔhwiee ne mogya kronkron no\n",
+            "De gyee me fii amaneɛ mu.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "O mede adom ka kɛse\n",
+            "A merentumi ntua da\n",
+            "Ma wo adɔeɛ no nyɛ homa\n",
+            "Nkye m'akoma mfam wo ho\n",
+            "Mma me mmfi wo ho da biara da\n",
+            "Mennya Nyame a medɔ no\n",
+            "M'akoma nie, gye na sɔ ano\n",
+            "Sɔ ano ma soro nnwuma.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "number": "137",
+      "title": "ɔSOM KRONKRON",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "Yɛtaa ba bɛhyia mu\n",
+            "Yɛ to nnwom bɔ mpae\n",
+            "Yɛde yɛ afɔdeɛ ba\n",
+            "Saa da kronkron yi mu.\\\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "Yɛ yɛadom, yɛnhunu wo dɔ\n",
+            "Na yɛn nsom wo nokorɛ ne kronkron mu.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "Deɛ woaka nyinaa ara\n",
+            "ɛnka yɛadwene mu\n",
+            "Na yɛnsom wo yiye\n",
+            "Sɛ yɛdi paano no a.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "Ma yɛn nyinaa nya adwen koro\n",
+            "Wɔ wo honhom mu\n",
+            "Mfa nhyira kuruwa yi a\n",
+            "Awurade de ama no.\n"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "138",
+      "number": "138",
+      "title": "ME HENE ADWUMA MU",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "Me de anigye bɛkɔ afuo no mu\n",
+            "Wɔ me hene adwuma mu,(Wɔ me hene adwuma mu)\n",
+            "Mɛto ɔdɔ nwom ama,Deɛ wɔatɔ baha\n",
+            "Wɔ me hene adwuma mu (Wɔ me hene nhyira adwuma mu.)\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "(Soprano/Alto),Wɔ me hene adwuma mu\n",
+            "(Tenor/Bass) Wɔ me hene nhyira adwuma mu me soro hene\n",
+            "Wɔ me hene adwuma mu\n",
+            "Wɔ me hene nhyira adwuma mu, me hene adwuma\n",
+            "Animuonyam ne da a ɛnni nsusuiɛ\n",
+            "Wɔ me hene adwuma mu\n",
+            "Wɔ me hene nhyira adwuma mu.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "Ma menfa mensa nyɛ adwuma me pɛ mu\n",
+            "Wɔ me hene adwuma mu,Wɔ me hene nhyira adwuma mu\n",
+            "N'asɛm kyerɛ me kwan mɛdi Ne mmra so\n",
+            "Wɔ me hene adwuma mu Wɔ me hene nhyira adwuma mu.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "Ma mentwe ɔkra bi a ne bra bɛtena\n",
+            "Me hene adwuma no mu, Me henen nhyira adwuma no mu\n",
+            "Ma mento nnwom a ɛbɛma m'ade me ho\n",
+            "Wɔ me hene adwuma mu Wɔ me hene nhyira adwuma mu.\n"
+          ]
+        },
+        {
+          "stanza": 4,
+          "lines": [
+            "Mɛka ayamye asɛm, nnwom anaa mpae\n",
+            "Wɔ me hene adwuma mu,Wɔ me hene nhyira adwuma mu\n",
+            "Ama deɛ w'ayera aba n'anuonyam m'\n",
+            "Wɔ me hene adwuma mu Wɔ me hene nhyira adwuma mu\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "number": "139",
+      "title": "ƐKA BƐN NA ME DEƐ?",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "ɛka bɛn na mede ne wura\n",
+            "M'ade pa bia mɛtumi anya?\n",
+            "Memfa m'ade bi nkame wo\n",
+            "Wo a wogyaa w'ade nyinaa wu naam'\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "ɛka bɛn na mede me wura\n",
+            "Made pa bia mɛtumi anya\n",
+            "Biribi a meyɛ baabi a mɛkɔ\n",
+            "Me wura made nyinaa fi wo.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "Menni sika anaa dwetɛ\n",
+            "Nanso mennfa biribi nkam'wo\n",
+            "Menkwa, medɔ ne me som nso\n",
+            "Mɛdi nokorɛ ama wo nko.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "wotuaa me ka asɛnnuaso\n",
+            "Wɔde mafodie to wo so\n",
+            "Wo nko na wobetumi ahu'\n",
+            "ɛka kɛse a mede me wura\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "140",
+      "number": "140",
+      "title": "OBI NE ME",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "M'ani agye ɛnnɛ na owia ahyerɛn\n",
+            "W'ayi munmkum afi hɔ\n",
+            "Fisɛ Agyenkwa no se obi a ɔpɛ\n",
+            "No mɛneon ntena\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "Obi a ɔpɛ no ɛne me ampa\n",
+            "ɛne me ampa, o ɛne me ampa\n",
+            "Obia ɔpɛ no ɛne me ampa\n",
+            "ɛnɛ me onipa, obi a ɔpɛ no ne me.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "M'anidaso ɔboroso nhyira nka ne din\n",
+            "N'anuonyam hyɛ kra ma\n",
+            "Wama me so na madi bɔne so\n",
+            "Ne mogya ma medi mu.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "Anwanwa dɔ nid, adom kronkron nie\n",
+            "Sɛ Yesu bɛwuu maa me\n",
+            "Na mayera bɔnem, medii wiase akyi\n",
+            "Afei me de me ho.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "141",
+      "number": "141",
+      "title": "WƆDE NO BƆƆ ASƐNDUA HO",
+      "description": "",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": [
+            "Obi nyaa ɔpɛ sɛ ɔbɛwu ama me\n",
+            "Na mekra ɛnfra yi anya nkwa\n",
+            "ɔpɛɛ sɛ ɔbɛtu asɛnnua ho kwan no\n",
+            "Na ɔde me bɔne akyɛ me.\n"
+          ]
+        },
+        {
+          "stanza": "Nyesoɔ",
+          "lines": [
+            "ɔde abɔ asɛnnua no so\n",
+            "O ɔpɛɛ sɛ ɔbɛsoa ne nyinaa\n",
+            "Awerɛhoɔ ne yea mu Yesu kɔɔ asɛndua ho\n",
+            "Na ɔsoaa me bɔne de kɔɔ hɔ.\n"
+          ]
+        },
+        {
+          "stanza": 2,
+          "lines": [
+            "ɔwɔ dɔ ne ahobrɛase, ɔsi me ho aboterɛ\n",
+            "Berɛ a ɛyi me komam ɛfii no\n",
+            "Afɔbuo bi nni me so na me de me ho\n",
+            "Fisɛ wabɔ me bɔne nyinaa asɛnduam'.\n"
+          ]
+        },
+        {
+          "stanza": 3,
+          "lines": [
+            "Mɛfam Agyenkwa no ho, mentwe me ho da\n",
+            "Me de anigye betu me kwan no\n",
+            "M'ano fafa bɛto dwom, me koma bɛto dwom\n",
+            "Sɛ w'ayi me bɔne nyinaa afi ho.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "142": {
+        "number": "142",
+        "title": "WɔN A WɔAYERA HWEHWƐ",
+        "description": "",
+        "hymncontents": [
+          {
+            "stanza": 1,
+            "lines": [
+              "Yiw ɔrehwehwɛ wɔn a wɔayera\n",
+              "Resrɛ akobɔfoɔ bepɔ no so\n",
+              "Sɛ wɔmra ne nkyɛn, ɔgu so refrɛ\n",
+              "Owura no nsɛm no gyegye ɛnnɛ.\n"
+            ]
+          },
+          {
+            "stanza": "Nyesoɔ",
+            "lines": [
+              "Merekɔ akyiri mepɔ no so hɔ\n",
+              "Akɔtwe akobɔfoɔ aba\n",
+              "Megyefoɔ no nwankuo no mu bio\n",
+              "Ysu a wɔkuu no maa abɔnefoɔ.\n"
+            ]
+          },
+          {
+            "stanza": 2,
+            "lines": [
+              "Mekyerɛ wɔn a wɔayera, akra a wɔayɛ merɛ\n",
+              "Me wura pirafoɔ Yesu nkyɛn kwan\n",
+              "Mɛdi wɔn anim nkagye kwan so\n",
+              "Makyerɛ wɔn kwan akɔ daa nkwa mu.\n"
+            ]
+          },
+          {
+            "stanza": 3,
+            "lines": [
+              "Saa na mɛtu ahumɔbɔ kwan no\n",
+              "Dabiara mɛdi Kristo akyi\n",
+              "Mɛkyekyewerɛ ama asehwefoɔ so\n",
+              "Mɛkyerɛ ayarefoɔ Yesu, ɛkwan no.\n"
+            ]
+          }
+        ]
+      },
+      "143": {
+        "number": "143",
+        "title": "MƐTO ANWASƐM",
+        "description": "",
+        "hymncontents": [
+          {
+            "stanza": 1,
+            "lines": [
+              "Mɛto Kristo a owu maame\n",
+              "No anwanwasɛm no ho dwom\n",
+              "Sɛdeɛ ɔgyaa n'anuo'nyam fie\n",
+              "Bɛfaa asendua Kalvary.\n"
+            ]
+          },
+          {
+            "stanza": "Nyesoɔ",
+            "lines": [
+              "Yiw, mɛto Kristo a owu maame\n",
+              "N'anwanwasɛm no ho dwom\n",
+              "Me ne ahotefoɔ bɛhyiam po no ano\n",
+              "Ato no an'uonyam mu.\n"
+            ]
+          },
+          {
+            "stanza": 2,
+            "lines": [
+              "Meyerae na Yesu huu me\n",
+              "Sɛ odwan a wafom kwan\n",
+              "ɔde ne dɔ basa sɔ m'mu\n",
+              "Twee me baa ne kwan so bio\n"
+            ]
+          },
+          {
+            "stanza": 3,
+            "lines": [
+              "Mepirae, Yesu yɛɛ m'aduro\n",
+              "M'asehwe maa me tɔɔ piti\n",
+              "M'ani firae, na ɛhu kaa me\n",
+              "Na ɔgyee me fii ne nyinaa mu.\n"
+            ]
+          },
+          {
+            "stanza": 4,
+            "lines": [
+              "ɛsum nna da so ba me so\n",
+              "Metaa fa awerɛhoɔ kwan so\n",
+              "Nanso Agyenkwa no ka me ho\n",
+              "Ne nsa kyerɛ me kwan dwoodwoo.\n"
+            ]
+          },
+          {
+            "stanza": 5,
+            "lines": [
+              "ɔbɛkora me akosi sɛ\n",
+              "mɛdu nsuo no agya hɔ\n",
+              "na ɔde me bɛtwa dwoodwo\n",
+              "akɔhyia ahyirafoɔ.\n"
+            ]
+          }
+        ]
+      },
+      "144": {
+        "number": "144",
+        "title": "MEDE ME NKWA MAA WO",
+        "description": "",
+        "hymncontents": [
+          {
+            "stanza": 1,
+            "lines": [
+              "Mede me nkwa maa wo\n",
+              "Hwiee me mogya dehyeɛ gui\n",
+              "Sɛ wo bɛ de wo ho\n",
+              "Anyani afi owuo m'\n",
+              "Mede, mede me nkwa maa wo\n",
+              "Deɛn na wode ama me?\n"
+            ]
+          },
+          {
+            "stanza": 2,
+            "lines": [
+              "M'Agya fie a ɛhyerɛn\n",
+              "M'anu'onyam ahendwa no\n",
+              "Megyae baa asaase yi sum mu\n",
+              "Nante-brɛ ne awerɛhoɔ m'\n",
+              "Megyae, megyae ne nyinaa maa wo\n",
+              "Deɛn na woagyae ama me?\n"
+            ]
+          },
+          {
+            "stanza": 3,
+            "lines": [
+              "Mehuu amaneɛ pii maa wo\n",
+              "Kyɛn deɛ wobɛtumi aka\n",
+              "Yea a ɛnni kabea\n",
+              "De gyee wo fii ɛgya m'\n",
+              "M'asoa, m'asoa ne nyinaa ama wo\n",
+              "Deɛn na w'asoa ama me?\n"
+            ]
+          },
+          {
+            "stanza": 4,
+            "lines": [
+              "Mede nkwagye a ɛyɛ pɛ\n",
+              "Medɔ ne fafiri nso\n",
+              "Fi me soro fie nohoaa\n",
+              "Abɛkyɛ wo kwa\n",
+              "Mede, mede nepa kyɛ wo\n",
+              "Deɛn na wode brɛ me?\n"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "145",
+      "number": "145",
+      "title": "эBOTAN NO",
+      "description": "A hymn focused on the unshakable hope and refuge in Jesus Christ, symbolized as 'the rock.' It reflects on trust and reliance on His righteousness and sacrifice.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "M’nidasoэ nyinaa biribi a so\n" +
+                   "Sε Yesu mogya ne tenenee\n" +
+                   "Mentumi ntwere wiase dε mpo\n" +
+                   "Mede meho to Yesu so."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Megyina Yesu,\n" +
+                   "эbotan no so\n" +
+                   "Baabiara a aka no yε afor\n" +
+                   "Baabiara a aka no yε afor."
+        },
+        {
+          "stanza": 2,
+          "lines": "Sεsum kata m’anim mpo a\n" +
+                   "Metwere n’adεe a εnsa da no\n" +
+                   "Asorekye ne ahum bra mu\n" +
+                   "Me tintim wэ me wura no mu."
+        },
+        {
+          "stanza": 3,
+          "lines": "Ne bεhyε, n’apam, ne mogya\n" +
+                   "Kura me nsuyiri no mu\n" +
+                   "Sε ade nyinaa di me hwaumэ a\n" +
+                   "Ɛno na εyε m’anidasoэ."
+        },
+        {
+          "stanza": 4,
+          "lines": "Sε эba wэ osebэ mu a\n" +
+                   "O ma эnhu me wэ ne mu\n" +
+                   "Menfa ne tenenee no nko nhyε."
+        }
+      ]
+    },
+    {
+      "id": "146",
+      "number": "146",
+      "title": "YESU HO NSεM PII",
+      "description": "A hymn that focuses on learning and sharing the message of Jesus, His grace, salvation, and holiness. It encourages reflection on the teachings of Christ and the guidance of the Holy Spirit.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Mesua Yesu ho nsεm no pii\n" +
+                   "Mεka n’adom no akyerε pii\n" +
+                   "Mεhu ne nkwagye mayε pii\n" +
+                   "Mepε m’Agyenkwa dε no pii."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Yesu ho nsεm no pii\n" +
+                   "Yesu ho nsεm no pii\n" +
+                   "Mεhu ne nkwagye mayε pii\n" +
+                   "Mepε m’Agyenkwa dε no pii."
+        },
+        {
+          "stanza": 2,
+          "lines": "Ma mensua Yesu ho nsεm pii\n" +
+                   "Na menhu ne pε kronkron pii\n" +
+                   "Nyame Honhom nyε me kyerεkyerεfo\n" +
+                   "εnyi Kristo adi nkyerε me."
+        },
+        {
+          "stanza": 3,
+          "lines": "Mehu Yesu wε N’asεm mu pii\n" +
+                   "Me ne me wura di nkitaho\n" +
+                   "Mete ne nne n’asεm bi a mu\n" +
+                   "Mema ne nsεm no fa me ho."
+        },
+        {
+          "stanza": 4,
+          "lines": "Ka ɔhene Yesu ho nsεm pii\n" +
+                   "Anuonyam nyinaa yε ne de\n" +
+                   "Na ahenie no nkɔ so nterε pii\n" +
+                   "Asomdwoe hene no bεba bio."
+        }
+      ]
+    },
+    {
+      "id": "147",
+      "number": "147",
+      "title": "FA TWERε NO MA ME",
+      "description": "A hymn about asking for God's holy word to guide and enlighten through life's journey. It emphasizes the power of God's word to provide direction, hope, and assurance in times of darkness and weariness.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Fa twerε no ma me\n" +
+                   "εyε anigye nsoroma\n" +
+                   "εkyekye kwantuni brεfoε werε\n" +
+                   "Ahum bi ntumi nnha saa nsoroma yi nkyε\n" +
+                   "Fi sε Yesu baa bεgyee deε wayera."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Fa twerε no ma me\n" +
+                   "Nsεm kronkron a εhyerεn\n" +
+                   "Wo hann no bεwεn me kwan tea no mu\n" +
+                   "Bεhyε ne mmrea ne edε ahyε mu ma\n" +
+                   "Kεsi sε sum bεyear daa hann no mu."
+        },
+        {
+          "stanza": 2,
+          "lines": "Fa Twerε no ma me\n" +
+                   "Berε a mekoma ayε merε\n" +
+                   "Na bεne hu ahyε me kra ma\n" +
+                   "Fa nsεmpa a Yesu aka no ma me\n" +
+                   "Ma gyedie kanea so sε Yesu abεn."
+        },
+        {
+          "stanza": 3,
+          "lines": "Fa Twerε no ma me\n" +
+                   "Na εnhyerεn me kwan so\n" +
+                   "εnkyerε me wiase ha musuo\n" +
+                   "Ahotε kanea no bεpam musuo nyinaa\n" +
+                   "Kanea no nko na εkyerε somdwoe kwan."
+        },
+        {
+          "stanza": 4,
+          "lines": "Fa Twerε no ma me\n" +
+                   "Daa nkwa hann a εnnum da\n" +
+                   "εhyerεn fεfε wε deε damoa abue\n" +
+                   "Kyerε me hann a εfi soro apondwa mu\n" +
+                   "Kyerε me anuonyam a efi Jordan mu."
+        }
+      ]
+    },
+    {
+      "id": "148",
+      "number": "148",
+      "title": "O MEWURA MA ME NE WO NANTE",
+      "description": "A prayerful hymn asking for guidance and companionship with the Lord. It expresses a desire to walk in humility, to serve faithfully, and to share God's love with others.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "O mewura wo ne me nante\n" +
+                   "Ahobreaseε ne эsom mu\n" +
+                   "Ka woahuntasεm kyerε me\n" +
+                   "Boa me na me nsoa эbra yi mu brε."
+        },
+        {
+          "stanza": 2,
+          "lines": "Boa me na menfa эdэ asεm bi\n" +
+                   "Ntwe wэn a wakoma ayε duru\n" +
+                   "Ma mensэ akobэfoэ mu\n" +
+                   "Na menkyerε wэn efie kwan."
+        },
+        {
+          "stanza": 3,
+          "lines": "Kyerε me woaboterε na me\n" +
+                   "Me nante ayэnkofa pa mu\n" +
+                   "Dwuma a εma gyedie yε den\n" +
+                   "Awerεhyem a edi bone so."
+        },
+        {
+          "stanza": 4,
+          "lines": "Anidosoε a εde ne hann\n" +
+                   "Hyerεn daakye kan kεse no mu\n" +
+                   "Asomdwoe a wo nko de ma\n" +
+                   "O me wura ma me ne wo ntena."
+        }
+      ]
+    },
+    {
+      "id": "149",
+      "number": "149",
+      "title": "KAN WO NHYIRA",
+      "description": "A hymn of reflection and thanksgiving, reminding believers to count their blessings in times of distress and trials, and to recognize God's constant care and provision.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Sε эbra asorэkye rebэ wo akэ a\n" +
+                   "Na woaba mu bu\n" +
+                   "Redwen sε biribi a ayera a\n" +
+                   "Kan wo nhyira pii no to din nkoro nkoro\n" +
+                   "Na deε Awurade ayε ama wo\n" +
+                   "Bεyε wo nwanwa."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Kan wo nhyira, to din nkoro nkoro\n" +
+                   "Kan wo nhyira hwε deε Nyame ayε\n" +
+                   "Kan wo nhyira, to din nkoro nkoro\n" +
+                   "Kan wo nhyira dodo\n" +
+                   "Hwε deε Nyame ayε."
+        },
+        {
+          "stanza": 2,
+          "lines": "Sε эbra adwendwen ayε wo adesoa a\n" +
+                   "Na asεnnua a εso wo no mu ayε duru\n" +
+                   "Kan wo nhyira pii no na akyinyi nyinaa Bεkэ\n" +
+                   "Na woani bεgye εna retwam yi."
+        },
+        {
+          "stanza": 3,
+          "lines": "Sε wohwε εbinom a wэnya wэn hoa\n" +
+                   "Dwen sε Krosto de ahonya a εkyεn so ahyε wo bε\n" +
+                   "Kan wo nhyira pii a sika ntumi ntε\n" +
+                   "Wo akatua ne wofie a εwэ soro hэ."
+        },
+        {
+          "stanza": 4,
+          "lines": "εnti sε эhaw no mu yε den sεn ara\n" +
+                   "Nya abotεyam Nyame no a bεkyerε\n" +
+                   "Kan wo nhyira pii no ma abεfo bεtie\n" +
+                   "εbεma wo awerεkyekye akwantu yi mu."
+        }
+      ]
+    },
+    {
+      "id": "150",
+      "number": "150",
+      "title": "TIE, εNNE BRεOO NO",
+      "description": "A hymn calling for attentiveness to the teachings of Jesus, encouraging believers to take heart in their spiritual journey and to support one another in faith.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Tie! Wo Yesu nne dεε dε no refrε\n" +
+                   "εgyegye brεoo woaso mu\n" +
+                   "эrefrε эdε ne ahumэbrэ mu\n" +
+                   "Dan woani tie twεn n ate."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Mo a moabrε na mo nnesoa mu ayεdu\n" +
+                   "Montwere mo wura no bom\n" +
+                   "Moa a moabrε na mo nnesoa mu ayεdu\n" +
+                   "Mommra mεgye mo ahome."
+        },
+        {
+          "stanza": 2,
+          "lines": "Fan e kэnkua no efisε εdwo\n" +
+                   "Soa w’adesoa kэ ne kyeε n\n" +
+                   "Deε эfrε wo no ε\n" +
+                   "εwura kronkron эbε kyerε sε wo sua a."
+        },
+        {
+          "stanza": 3,
+          "lines": "Yε asotie ma ne dε nne brεoo no\n" +
+                   "Fa ne kэndua ne adesoa\n" +
+                   "Hwehwε ne kэndua ne nsa da wo so\n" +
+                   "Ne nti эbra mu nyε duru."
+        }
+      ]
+    },
     
+    
+    
+    
+
+    
+    
+    
+
+    
+
+
+
+
+
     
     
     
