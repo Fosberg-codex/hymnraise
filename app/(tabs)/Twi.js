@@ -7956,7 +7956,176 @@ export const data = [
                    "Ka tetesɛm no kyerɛ me, Sɛ Kristo begyee me."
         }
       ]
-    }
+    },
+    {
+      "id": "184",
+      "number": "184",
+      "title": "WO YƐ KƐSE",
+      "description": "This hymn exalts the greatness of God in all creation and His mighty works. It expresses awe at nature, salvation through Christ, and the hope of eternal joy, leading to heartfelt worship.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "O me Nyame, sɛ mede ahodwiri dwene\n" +
+                   "Wiase nyinaa a wode wo nsa ayɛ a\n" +
+                   "Mehu nsoroma, mete agradaa huuhuu\n" +
+                   "Wotumi da adi wo wiase nyinaa."
+        },
+        {
+          "stanza": 2,
+          "lines": "Sɛ me nante kwaeɛ ne mfofoo mu a\n" +
+                   "Na mete nomaa to wɔn nnwom dɛɛdɛ\n" +
+                   "Na meto mani fi mepɛ atifi a\n" +
+                   "Mete nsuo a ɛwororso ne mframa dɛɛdɛ."
+        },
+        {
+          "stanza": 3,
+          "lines": "Na sɛ medwene sɛ Nyame ankame neb a\n" +
+                   "Na ɔsoma no maa no ba bɛwui\n" +
+                   "Asɛndua so, ɔsoaa m’adesoa anigyem’\n" +
+                   "Ɔtuu mogya, wui de yii me bɔne."
+        },
+        {
+          "stanza": 4,
+          "lines": "Sɛ Kristo ba wɔ osebɔ denden mu a\n" +
+                   "Abɛfa me a mɛnya anigye kɛse\n" +
+                   "Hɔ na mɛkoto ahobrɛaseɛ ne ayɛyie m’\n" +
+                   "Na mateam sɛ me Nyame wo yɛ kɛse."
+        }
+      ]
+    },
+    {
+      "id": "185",
+      "number": "185",
+      "title": "ASAASE A εKOR эN",
+      "description": "This hymn reflects on the believer's journey toward heaven, where their faith sustains them despite trials. The singer expresses their desire for God's guidance to lead them to a land of peace, symbolizing heaven.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Merepem kε soro kwan so\n" +
+                   "Da biara me kε manim ara\n" +
+                   "εkwan no mu me bε mpae sε\n" +
+                   "Wurade fa me si bea a εkorεn."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "'Wurade ma me so mame nfa\n" +
+                   "Gyedie ngyina soro asaase so\n" +
+                   "Gyinabea a εkorεn sen de εmanya\n" +
+                   "'Wurade fa me si bea a εkorεn."
+        },
+        {
+          "stanza": 2,
+          "lines": "Mekra nni εpε sε εbetena\n" +
+                   "Bea akyinyi wε na suro bu abam\n" +
+                   "Sε ebinom bεtena bea sei a\n" +
+                   "Me botae yε asaase a εkorεn."
+        },
+        {
+          "stanza": 3,
+          "lines": "Sε bonsam ha me sεn ara\n" +
+                   "Me pε sε me boro wiase so\n" +
+                   "Fisε gyediem mate nnwom bi\n" +
+                   "Hotefo nnwom bea a εkorεn hε."
+        },
+        {
+          "stanza": 4,
+          "lines": "Me pε sε meforo kε soro hε\n" +
+                   "Kεhwε animuonyam a εhyerεn\n" +
+                   "Nanso me bε mpae daa sε\n" +
+                   "'Wura di m'anim kε bea a εkorεn."
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "number": "186",
+      "title": "NHYIRA BOSUO",
+      "description": "This hymn speaks of the blessings that flow like rain, symbolizing God's promises and the hope for spiritual refreshment. The singer prays for the outpouring of God's blessings from heaven to bring comfort, renewal, and peace to the faithful.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Nhyira bosuo bi bεgu\n" +
+                   "εyi yε Nyame bэhyε\n" +
+                   "Ahomegye merε bi bεba\n" +
+                   "εfi soro Agyenkwa nkyεn."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Nhyira bosuo, yεhia nhyira bosuo\n" +
+                   "Humэbэ nsuo tε gu yεn so\n" +
+                   "Nanso yεserε bosuo yi."
+        },
+        {
+          "stanza": 2,
+          "lines": "Nhyira bosuo bi bεgu\n" +
+                   "εbεma yεn nkanyan\n" +
+                   "Nkokoэ so ne abun mu\n" +
+                   "Nsuo no retε pii."
+        },
+        {
+          "stanza": 3,
+          "lines": "Nhyira bosuo bi bεgu\n" +
+                   "Ma εmra yεn so Awurade\n" +
+                   "Yε srε wo ma yεn ahodwoэ\n" +
+                   "Bra, na me wasεm no mra m’."
+        },
+        {
+          "stanza": 4,
+          "lines": "Nhyira bosuo bi begu\n" +
+                   "O ma no ntε εnnε\n" +
+                   "Yεpae mu ka kyerε Nyame\n" +
+                   "Yeresu frε Yesu yi."
+        },
+        {
+          "stanza": 5,
+          "lines": "Nhyira bosuo bi begu\n" +
+                   "Sε yε gyedi yε sotie a\n" +
+                   "Ahomegye merε bi bεba\n" +
+                   "Sε yε ma no yε deε εpεa."
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "number": "187",
+      "title": "SORO AWIA HANN",
+      "description": "This hymn expresses the journey of faith and the joy that comes from walking in the light of Jesus. It speaks about navigating through life's challenges, trusting in Jesus' promises, and rejoicing in the heavenly light that guides and comforts the soul.",
+      "hymncontents": [
+        {
+          "stanza": 1,
+          "lines": "Menam awia mu, makwantu yi mu\n" +
+                   "Wэ mmepэ so ne abun mu\n" +
+                   "Yesu ada sε merenya wo da\n" +
+                   "Yesu aka sε merennya wo da\n" +
+                   "Bэhyε kronkron a εtim hэ daa."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Soro awia hann, soro awia hann\n" +
+                   "De anuonyam kronkron ba me kra so\n" +
+                   "Halle lujah, meredi ahurusie\n" +
+                   "Mereyi n’ayε, Yesu yε mede."
+        },
+        {
+          "stanza": 2,
+          "lines": "εsum a atwa me ho ahyia yi\n" +
+                   "Entumi nka magyenkwa no nhyε\n" +
+                   "εno na εyε hann, εsum nni ne mu\n" +
+                   "Mekɔso nante ne nkyεn daa."
+        },
+        {
+          "stanza": 3,
+          "lines": "Owia hann no mu medi ahurusie\n" +
+                   "Merepem so kɔ soro aban mu\n" +
+                   "Meyi nayε me nante anigyem\n" +
+                   "Menam wia hann mu, εdε hann no."
+        }
+      ]
+    },
+    
+    
+    
+    
     
     
 
