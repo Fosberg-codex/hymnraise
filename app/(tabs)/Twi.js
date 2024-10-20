@@ -5,6 +5,7 @@ export const data = [
     number: "1",
     title: "Naawotwe da a edi kan no",
     description: "Naawotwe da a edi kan no",
+    ss:"3",
     hymncontents: [
       {
         "stanza": 1,
@@ -48,6 +49,7 @@ export const data = [
     number: "2",
     title: "Me Kra Awia",
     description: "Me Kra Awia",
+     ss:"151",
     hymncontents: [
       {
         "stanza": 1,
@@ -91,6 +93,7 @@ export const data = [
     number: "3",
     title: "Hyira Nka Homa",
     description: "Hyira Nka Homa",
+    ss:"656",
     hymncontents: [
       {
         "stanza": 1,
@@ -134,6 +137,7 @@ export const data = [
     number: "4",
     title: "Yeretu Sa Ako Zion",
     description: "Yeretu Sa Ako Zion",
+    ss:"2",
     hymncontents: [
       {
         "stanza": 1,
@@ -176,6 +180,7 @@ export const data = [
     number: "5",
     title: "Odo Kronkron",
     description: "Odo Kronkron",
+    ss:"260",
     hymncontents: [
       {
         "stanza": 1,
@@ -269,6 +274,7 @@ export const data = [
     number: "7",
     title: "Metie",
     description: "Metie",
+    ss:"352",
     hymncontents: [
       {
         "stanza": 1,
