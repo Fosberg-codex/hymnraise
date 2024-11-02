@@ -2042,6 +2042,7 @@ export const data = [
       number: "49",
       title: "Sɛ Medwen Asennua Nwanwa A",
       description: "Sɛ Medwen Asennua Nwanwa A",
+      ss:"179",
       hymncontents: [
         {
           "stanza": 1,
@@ -2078,6 +2079,7 @@ export const data = [
       number: "50",
       title: "Kristo Asraafoɔ",
       description: "Kristo Asraafoɔ",
+      ss:"220",
       hymncontents: [
         {
           "stanza": 1,
@@ -2131,6 +2133,7 @@ export const data = [
       number: "51",
       title: "Anigye Da",
       description: "Anigye Da",
+      ss:"592",
       hymncontents: [
         {
           "stanza": 1,
@@ -2169,6 +2172,7 @@ export const data = [
       number: "52",
       title: "Memfɛre M'Awurade Ho",
       description: "Memfɛre M'Awurade Ho",
+      ss:"321",
       hymncontents: [
         {
           "stanza": 1,
@@ -2394,6 +2398,7 @@ export const data = [
       number: "57",
       title: "Awurade Ne Me Dwanhwɛfoɔ",
       description: "Awurade Ne Me Dwanhwɛfoɔ",
+      ss:"74",
       hymncontents: [
         {
           "stanza": 1,
@@ -2433,6 +2438,7 @@ export const data = [
       number: "58",
       title: "Magyaa Adeɛ Nyinaa Ama Yesu",
       description: "Magyaa Adeɛ Nyinaa Ama Yesu",
+      ss:"98",
       hymncontents: [
         {
           "stanza": 1,
@@ -2476,6 +2482,7 @@ export const data = [
       number: "59",
       title: "Ɛyɛ Me Dɛ Sɛ Yɛn Agya Wɔ Soro",
       description: "Ɛyɛ Me Dɛ Sɛ Yɛn Agya Wɔ Soro",
+      ss:"274",
       hymncontents: [
         {
           "stanza": 1,
@@ -2562,6 +2569,7 @@ export const data = [
       number: "61",
       title: "Mommra Momma Yɛn Mom Nto Nwom",
       description: "Mommra Momma Yɛn Mom Nto Nwom",
+      ss:"256",
       hymncontents: [
         {
           "stanza": 1,
@@ -2603,6 +2611,7 @@ export const data = [
       number: "62",
       title: "Asɛnnua A M'Agyenkwa Wuu Ase",
       description: "Asɛnnua A M'Agyenkwa Wuu Ase",
+      ss:"196",
       hymncontents: [
         {
           "stanza": 1,
@@ -2646,6 +2655,7 @@ export const data = [
       number: "63",
       title: "Nyame Ne Wo Ntena Kosi Sɛ",
       description: "Nyame Ne Wo Ntena Kosi Sɛ",
+      ss:"655",
       hymncontents: [
         {
           "stanza": 1,
@@ -2682,6 +2692,7 @@ export const data = [
       number: "64",
       title: "Wo Nkyɛn Ara Nyame",
       description: "Wo Nkyɛn Ara Nyame",
+      ss:"56",
       hymncontents: [
         {
           "stanza": 1,
@@ -2730,6 +2741,7 @@ export const data = [
       number: "65",
       title: "Yehowa Tumfoɔ Gyaa Me",
       description: "Yehowa Tumfoɔ Gyaa Me",
+      ss:"40",
       hymncontents: [
         {
           "stanza": 1,
@@ -2764,6 +2776,7 @@ export const data = [
       number: "66",
       title: "Kronkron, Kronkron, Kronkron",
       description: "Kronkron, Kronkron, Kronkron",
+      ss:"59",
       hymncontents: [
         {
           "stanza": 1,
@@ -2804,6 +2817,7 @@ export const data = [
       number: "67",
       title: "Ɔdaa Adamoa No Mu",
       description: "Ɔdaa Adamoa No Mu",
+      ss:"155",
       hymncontents: [
         {
           "stanza": 1,
@@ -2841,6 +2855,7 @@ export const data = [
       number: "68",
       title: "Sɛdeɛ Yesu Din Si Yɛ Dɛ",
       description: "Sɛdeɛ Yesu Din Si Yɛ Dɛ",
+      ss:"272",
       hymncontents: [
         {
           "stanza": 1,
@@ -2955,6 +2970,7 @@ export const data = [
       number: "72",
       title: "Anka Me Nya Tɛkyerɛma Apem",
       description: "Anka Me Nya Tɛkyerɛma Apem",
+      ss:134,
       hymncontents: [
         {
           "stanza": 1,
@@ -3164,6 +3180,7 @@ export const data = [
       number: "77",
       title: "Mehia Wo Mmerɛ Nyinaa",
       description: "Mehia Wo Mmerɛ Nyinaa",
+      ss:"52",
       hymncontents: [
         {
           "stanza": 1,
@@ -3205,6 +3222,7 @@ export const data = [
       number: "78",
       title: "Yɛgu Aba Anɔpa Ayamye Ara",
       description: "Yɛgu Aba Anɔpa Ayamye Ara",
+      ss:"571",
       hymncontents: [
         {
           "stanza": 1,
@@ -3241,6 +3259,7 @@ export const data = [
       number: "79",
       title: "Yesu Kora Me Asennua Ho",
       description: "Yesu Kora Me Asennua Ho",
+      ss:"46",
       hymncontents: [
         {
           "stanza": 1,
@@ -3325,6 +3344,7 @@ export const data = [
       number: "81",
       title: "Deɛ Mete Yi Menni Hwee Ka",
       description: "Deɛ Mete Yi Menni Hwee Ka",
+      ss:"605",
       hymncontents: [
         {
           "stanza": 1,
@@ -3368,6 +3388,7 @@ export const data = [
       number: "82",
       title: "Wo Ne Me Ntena",
       description: "Wo Ne Me Ntena",
+      ss:"654",
       hymncontents: [
         {
           "stanza": 1,
@@ -3411,6 +3432,7 @@ export const data = [
       number: "83",
       title: "Yesu Me Kra Ne Dɔfo",
       description: "Yesu Me Kra Ne Dɔfo",
+      ss:"258",
       hymncontents: [
         {
           "stanza": 1,
@@ -3451,6 +3473,7 @@ export const data = [
       number: "84",
       title: "Oduyɛfoɔ Kɛseɛ Abɛn",
       description: "Oduyɛfoɔ Kɛseɛ Abɛn",
+      ss:"615",
       hymncontents: [
         {
           "stanza": 1,
@@ -3538,102 +3561,13 @@ export const data = [
           "Wɔ yɛn akwantuo awiei."
         }
       ]
-    },
+   },
     {
-      id: "83",
-      number: "83",
-      title: "Yesu Me Kra Ne Dɔfo",
-      description: "Yesu Me Kra Ne Dɔfo",
-      hymncontents: [
-        {
-          "stanza": 1,
-          "lines":  "Yesu me kra ne dɔfo\n" +
-          "Ma menguan mɛhyɛ wo bom\n" +
-          "Nsuo no reworo yi\n" +
-          "Me Gyefo fa me hunta\n" +
-          "Ma ahum no mɛ mmɛsen\n" +
-          "Gya me kodu berano\n" +
-          "Ao, awiei no gye me kra."
-        },
-        {
-          "stanza": 2,
-          "lines":  "Menni huntabea biara\n" +
-          "Me kra twere wo nkutoo\n" +
-          "Mma nnya me nko ara da\n" +
-          "Sɛ me mu, kyekye me werɛ\n" +
-          "Me mmoa nyinaa fi wo hɔ\n" +
-          "Me werɛ nyinaa hyɛ wo mu\n" +
-          "Fa wo ntaban kɛseɛ no\n" +
-          "Kata me tikwa yi so."
-        },
-        {
-          "stanza": 3,
-          "lines":  "Adom pii wɔ so nsam a\n" +
-          "ɛkata me bɔne so\n" +
-          "Ma nkwa nsuo no nsen mmra\n" +
-          "ɛnhohoro na ɛnte me ho\n" +
-          "Wo ne nkwa asutire no\n" +
-          "Ma memmesa bi mennom\n" +
-          "Bra bɛtaa me koma mu\n" +
-          "Taa mu kɔ mmeresanten nyinaa."
-        }
-      ]
-    },
-    {
-      id: "84",
-      number: "84",
-      title: "Oduyɛfoɔ Kɛseɛ Abɛn",
-      description: "Oduyɛfoɔ Kɛseɛ Abɛn",
-      hymncontents: [
-        {
-          "stanza": 1,
-          "lines":  "Oduyɛfoɔ kɛseɛ abɛn\n" +
-          "ɛne tummɔbɔ Yesu\n" +
-          "ɛkasa ma koma tɔ yam\n" +
-          "Dɔfo, tie Yesu nne no."
-        },
-        {
-          "stanza": "Nnyesoo",
-          "lines":  "Dwom a ɛdɛ wɔ soro\n" +
-          "Din a ɛyɛ dɛ wɔ ase\n" +
-          "Ɛyɛ dɛ kyɛn dwom biara\n" +
-          "Yesu, hyirafoɔ Yesu."
-        },
-        {
-          "stanza": 2,
-          "lines":  "Wɔde wo bɔne akyɛ wo\n" +
-          "Dɔfo, tie Yesu nne no\n" +
-          "Fa asomdwee tu wo kwan kɔ soro\n" +
-          "Wo ne Yesu nhyɛ ahenkyɛ."
-        },
-        {
-          "stanza": 3,
-          "lines":  "Anuonyam nka Nyame Adwamma\n" +
-          "Megye Yesu din no di\n" +
-          "Me dɔ Gyefoɔ hyirafoɔ\n" +
-          "No din, me dɔ me Yesu din no."
-        },
-        {
-          "stanza": 4,
-          "lines":  "Ne din yi m’afodie nyinaa\n" +
-          "Din bi nni hɔ sɛ Yesu\n" +
-          "Yesu din a ne bo yɛ den\n" +
-          "Me kra de anigye tie."
-        },
-        {
-          "stanza": 5,
-          "lines":  "Anuanom momma yɛnyi no ayɛ\n" +
-          "Monyi Yesu din ayɛ\n" +
-          "Nuammaa mo nso moma mo nne so\n" +
-          "Monhyira me Yesu din no."
-        }
-      ]
-    },
-    {
-      id: "85",
-      number: "85",
+      id: "86",
+      number: "86",
       title: "Fa Yesu Din Bata Wo Ho",
       description: "Fa Yesu Din Bata Wo Ho",
+      ss:"643",
       hymncontents: [
         {
           "stanza": 1,
@@ -3677,6 +3611,7 @@ export const data = [
       number: "87",
       title: "Meyɛ Wode, Nyame",
       description: "Meyɛ Wode, Nyame",
+      ss:"4",
       hymncontents: [
         {
           "stanza": 1,
@@ -3720,6 +3655,7 @@ export const data = [
       number: "88",
       title: "Asodie Da Me So",
       description: "Asodie Da Me So",
+      ss:"215",
       hymncontents: [
         {
           "stanza": 1,
@@ -3755,6 +3691,7 @@ export const data = [
       number: "89",
       title: "Dɛn Na Menfa Nyi Wo Ayɛ?",
       description: "Dɛn Na Menfa Nyi Wo Ayɛ?",
+      ss:"359",
       hymncontents: [
         {
           "stanza": 1,
@@ -3853,6 +3790,7 @@ export const data = [
       number: "92",
       title: "Yea Nnipa",
       description: "A hymn reflecting on the coming of the Savior and the grace given to humanity.",
+      ss:"48",
       hymncontents: [
         {
           "stanza": 1,
@@ -3881,6 +3819,7 @@ export const data = [
       id: "93",
       number: "93",
       title: "εpo No Agya Hэ",
+      ss:"423",
       description: "A hymn about the light of God guiding believers through the journey of life.",
       hymncontents: [
         {
@@ -3954,6 +3893,7 @@ export const data = [
       number: "95",
       title: "εPono No Ano Da Hэ Maa Me",
       description: "A hymn describing the open door of salvation through Christ.",
+      ss:"533",
       hymncontents: [
         {
           "stanza": 1,
@@ -3995,6 +3935,7 @@ export const data = [
       number: "96",
       title: "Yesu Yε Me Wiase Nyinaa",
       description: "A hymn expressing how Jesus is everything in life and the comfort He provides.",
+      ss:"204",
       hymncontents: [
         {
           "stanza": 1,
@@ -4044,6 +3985,7 @@ export const data = [
       number: "97",
       title: "Ma Yesu Ntena W’akoma Mu",
       description: "",
+      ss:"519",
       hymncontents: [
         {
           "stanza": 1,
@@ -4094,6 +4036,7 @@ export const data = [
       number: "98",
       title: "Dwene Nohoaa εfie No Ho",
       description: "",
+      ss:"359",
       hymncontents: [
         {
           "stanza": 1,
@@ -4135,6 +4078,7 @@ export const data = [
       number: "99",
       title: "Hwee Nni Hэ sε Yesu Mogya",
       description: "",
+      ss:"197",
       hymncontents: [
         {
           "stanza": 1,
@@ -4177,6 +4121,7 @@ export const data = [
       number: "100",
       title: "Nkwasεm Nwanwa",
       description: "A hymn about the wonder of the gospel and its transformative power.",
+      ss:"13",
       hymncontents: [
         {
           "stanza": 1,
@@ -4217,6 +4162,7 @@ export const data = [
       number: "101",
       title: "Mεbεn Wo",
       description: "A hymn about closeness to the Savior and following Him through life’s journey.",
+      ss:"36",
       hymncontents: [
         {
           "stanza": 1,
@@ -4253,6 +4199,7 @@ export const data = [
       number: "102",
       title: "Mereba W’asεndua Ase",
       description: "A hymn of humility and seeking salvation at the foot of the cross.",
+      ss:"635",
       hymncontents: [
         {
           "stanza": 1,
@@ -4296,6 +4243,7 @@ export const data = [
       number: "103",
       title: "Bere A Wɔbobɔ Din",
       description: "A hymn about the anticipation of the Lord’s return and calling upon His name.",
+      ss:"345",
       hymncontents: [
         {
           "stanza": 1,
@@ -4331,6 +4279,7 @@ export const data = [
       number: "104",
       title: "Monkamfo Yesu Din",
       description: "A hymn of praise and honor to Jesus' name, calling all to glorify Him.",
+      ss:"18",
       hymncontents: [
         {
           "stanza": 1,
@@ -4367,6 +4316,7 @@ export const data = [
       number: "105",
       title: "Mpa Me Ho",
       description: "A plea for the Savior to take away burdens and bring peace to the weary.",
+      ss:"58",
       hymncontents: [
         {
           "stanza": 1,
@@ -4410,6 +4360,7 @@ export const data = [
       number: "106",
       title: "Nyame Yeyi W'ayɛ",
       description: "A song of thanksgiving and praise to God for His wonderful works, especially the gift of Jesus.",
+      ss:"17",
       hymncontents: [
         {
           "stanza": 1,
@@ -4452,6 +4403,7 @@ export const data = [
       number: "107",
       title: "Gyefo Yesu Kyerɛ Me Kwan",
       description: "A hymn asking Jesus to guide through life's storms and challenges as the ultimate protector and guide.",
+      ss:"184",
       hymncontents: [
         {
           "stanza": 1,
@@ -4487,6 +4439,7 @@ export const data = [
       number: "108",
       title: "Mede Me Bɔne Brɛ Wo",
       description: "A hymn of surrender and trust in Jesus, giving Him all our burdens, thoughts, and life.",
+      ss:"516",
       hymncontents: [
         {
           "stanza": 1,
@@ -4531,6 +4484,7 @@ export const data = [
       number: "109",
       title: "Obi Nni Hɔ",
       description: "A hymn expressing that no friend or savior is greater than Jesus.",
+      ss:"47",
       hymncontents: [
         {
           "stanza": 1,
@@ -4581,6 +4535,7 @@ export const data = [
       number: "110",
       title: "Asafo No Fapem",
       description: "A hymn about the foundation of the church and its connection to Jesus through His sacrifice.",
+      ss:"213",
       hymncontents: [
         {
           "stanza": 1,
@@ -4613,42 +4568,6 @@ export const data = [
                    "Sɛ: ɛnkosi da bɛn?\n" +
                    "Anadwo su renkyɛ\n" +
                    "Na adan anɔpa dwom."
-        }
-      ]
-    },
-    {
-      id: "111",
-      number: "111",
-      title: "Mede Koma A Yɛ Ahyɛ No Ma",
-      description: "A hymn expressing a plea to God for mercy and guidance through life's challenges.",
-      hymncontents: [
-        {
-          "stanza": 1,
-          "lines": "Mede koma a yɛ ahyɛ no ma\n" +
-                   "Awurade na merefrɛ wo\n" +
-                   "W’adom ahummɔbɔ so pii\n" +
-                   "Me Nyankopɔn hu me mmɔbɔ."
-        },
-        {
-          "stanza": 2,
-          "lines": "Mede me nsa hwe me bo so\n" +
-                   "Fodie duruduru ahyɛ meso\n" +
-                   "Kristo asɛnnua ne me su\n" +
-                   "Me Nyankopɔn hu me mmɔbɔ."
-        },
-        {
-          "stanza": 3,
-          "lines": "Megyina akyiri me nusu agu\n" +
-                   "Na mentumi menhwɛ soro\n" +
-                   "Wo na wohu me yea nyinaa\n" +
-                   "Me Nyankopɔn hu me mmɔbɔ."
-        },
-        {
-          "stanza": 4,
-          "lines": "Wopam me fi bɔne gya mu\n" +
-                   "Na me ne adehyeɛ kuo no kɔtra a\n" +
-                   "M’anigyeɛ nnwom daa bɛyɛ sɛ\n" +
-                   "Nyankopɔn ahu me mmɔbɔ."
         }
       ]
     },
@@ -4693,6 +4612,7 @@ export const data = [
       number: "112",
       title: "Mma Sɔhwɛ Nni Wo So",
       description: "A hymn encouraging faith and perseverance, trusting in Jesus to guide through trials.",
+      ss:"111",
       hymncontents: [
         {
           "stanza": 1,
@@ -4741,6 +4661,7 @@ export const data = [
       number: "113",
       title: "ɛDASUOM OLIVE BEPƐ SO",
       description: "A reflective hymn on Jesus praying at Gethsemane, expressing the sorrow and solitude He faced before His crucifixion.",
+      ss:"286",
       hymncontents: [
         {
           "stanza": 1,
@@ -4777,6 +4698,7 @@ export const data = [
       number: "114",
       title: "BRA AGYENKWA HƐ",
       description: "A hymn calling for the return to the Savior, emphasizing the urgency and joy in reuniting with Him.",
+      
       hymncontents: [
         {
           "stanza": 1,
@@ -4813,6 +4735,7 @@ export const data = [
       number: "115",
       title: "MEDA YESU BASA MU FƐMM",
       description: "A hymn expressing peace and comfort found in resting in Jesus' embrace.",
+      ss:"494",
       hymncontents: [
         {
           "stanza": 1,
