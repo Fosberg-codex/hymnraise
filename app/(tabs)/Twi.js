@@ -4784,6 +4784,7 @@ export const data = [
       number: "116",
       title: "ADƐN NA ƐDƐ ME SAA?",
       description: "A hymn reflecting on the humble sacrifice of Christ and its significance.",
+      ss:"301",
       hymncontents: [
         {
           "stanza": 1,
@@ -4819,6 +4820,7 @@ export const data = [
       number: "117",
       title: "FA HANN NO BRA",
       description: "A hymn calling for the light of Christ to be brought into every aspect of life.",
+      ss:"563",
       hymncontents: [
         {
           "stanza": 1,
@@ -4860,10 +4862,62 @@ export const data = [
       ]
     },
     {
+      id: "118",
+      number: "118",
+      title: "ADƐN NA ƐNYƐ ANADWO YI?",
+      ss:"629",
+      description: "",
+      hymncontents: [
+        {
+          "stanza": 1,
+          "lines": "Omma asɛm no mpa wo ho\n" +
+                   "Na nnkata w’ani mma hann no\n" +
+                   "Bɔneyɛfoɔ mmpirim wo koma\n" +
+                   "Nya nkwa anadwo yi."
+        },
+        {
+          "stanza": "Nyeso",
+          "lines": "Adɛn na ɛnyɛ anadwo yi?\n" +
+                   "Sɛ, sɛ wo nya nkwa\n" +
+                   "Adɛn na ɛnyɛ anadwo yi?"
+        },
+        {
+          "stanza": 2,
+          "lines": "Ɛkyena ebia na owia amfi\n" +
+                   "Ahyira danifuarae no so\n" +
+                   "Bere no ni hu nyansa\n" +
+                   "Nya nkwa anadwo yi."
+        },
+        {
+          "stanza": 3,
+          "lines": "Yɛn Ynbame ahummɔbrɔ wɔ hɔ\n" +
+                   "Na wo bɛtua ne dɔ so ka?\n" +
+                   "Po wo pɛ bɔne no seisei\n" +
+                   "Nya nkwa anadwo yi."
+        },
+        {
+          "stanza": 4,
+          "lines": "Wiase nni hwee de rema\n" +
+                   "Enni anigyeɛ foforɔ biara\n" +
+                   "Hwehwɛ Kristoni asetena\n" +
+                   "Nya nkwa anadwo yi."
+        },
+        {
+          "stanza": 5,
+          "lines": "Yɛn Awurade mpo biara\n" +
+                   "A ɔde ne kra bɛma no\n" +
+                   "Gyedi, yɛ asotie na wawie\n" +
+                   "Nya nkwa anadwo yi."
+        }
+      ]
+    },
+    
+    {
       "id": "119",
       "number": "119",
       "title": "OBIARA A ƐPƐ MMRA",
       "description": "A hymn inviting all who are willing to come to Christ.",
+      "ss":"602",
       "hymncontents": [
         {
           "stanza": 1,
@@ -4900,6 +4954,7 @@ export const data = [
       "number": "120",
       "title": "TUMI WƆ MOGYA NO MU",
       "description": "A hymn that reflects on the wondrous power of the blood of Jesus to free from sin.",
+      "ss":"198",
       "hymncontents": [
         {
           "stanza": 1,
@@ -4936,6 +4991,7 @@ export const data = [
       "number": "121",
       "title": "FA WƆN BRA",
       "description": "A hymn calling for the return of lost sheep to the Good Shepherd.",
+      "ss":"529",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5015,6 +5071,7 @@ export const data = [
       "number": "123",
       "title": "MESI HANN NO MU",
       "description": "A hymn about walking in the light of the Lord and following His guidance with joy.",
+      "ss":"182",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5093,6 +5150,7 @@ export const data = [
       "number": "125",
       "title": "ƐNE ME NTENA",
       "description": "A hymn asking the Lord to stay close during times of uncertainty and night, seeking His guidance and peace until the morning light.",
+      "125":"660",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5129,6 +5187,7 @@ export const data = [
       "number": "126",
       "title": "ƐBIA ƐKYENA RENTO YƐN",
       "description": "A hymn reflecting on the uncertainty of tomorrow and the need to trust in God's timing.",
+      "ss":"558",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5169,6 +5228,7 @@ export const data = [
       "number": "127",
       "title": "WO ANOYI BɛYƐ SƐN?",
       "description": "A hymn reflecting on judgment day and the final evaluation of one's life. It encourages deep self-reflection on one's actions and decisions.",
+      "ss":"557",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5298,6 +5358,7 @@ export const data = [
       "number": "130",
       "title": "ASOMDWOE, NYAME DƆ AKYƐDEƐ",
       "description": "A hymn celebrating the peace that comes from God's love, emphasizing it as a gift and the result of Christ's sacrifice.",
+      "ss":"465",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5341,6 +5402,7 @@ export const data = [
       "number": "131",
       "title": "HWAN NA ƆGYINA ME PON AKYI?",
       "description": "",
+      "ss":"614",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5385,6 +5447,7 @@ export const data = [
       "number": "132",
       "title": "MENIM SƐ MEGYEFOɔ TE ASE",
       "description": "",
+      "ss":"248",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5437,6 +5500,7 @@ export const data = [
       "number": "133",
       "title": "ƐNTI ƐYƐ MA WO KRA?",
       "description": "",
+    "ss":"254",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5482,6 +5546,7 @@ export const data = [
       "number": "134",
       "title": "SƐ AHOTEFOɔ Kɔ ƐSORO A",
       "description": "",
+      "ss":"358",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5535,6 +5600,7 @@ export const data = [
       "number": "135",
       "title": "YƐBƐHUNU ɔHENE NO DA BI",
       "description": "",
+      "ss":"6",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5584,6 +5650,7 @@ export const data = [
       "number": "136",
       "title": "O WO NHIRA NYINAA ABURA",
       "description": "",
+      "ss":"545",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5631,6 +5698,7 @@ export const data = [
       "number": "137",
       "title": "ɔSOM KRONKRON",
       "description": "",
+      "ss":"9",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5674,6 +5742,7 @@ export const data = [
       "number": "138",
       "title": "ME HENE ADWUMA MU",
       "description": "",
+      "ss":"10",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5730,6 +5799,7 @@ export const data = [
       "number": "139",
       "title": "ƐKA BƐN NA ME DEƐ?",
       "description": "",
+      "ss":"275",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5774,6 +5844,7 @@ export const data = [
       "number": "140",
       "title": "OBI NE ME",
       "description": "",
+      "ss":"15",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5818,6 +5889,7 @@ export const data = [
       "number": "141",
       "title": "WƆDE NO BƆƆ ASƐNDUA HO",
       "description": "",
+      "ss":"316",
       "hymncontents": [
         {
           "stanza": 1,
@@ -5862,6 +5934,7 @@ export const data = [
         "number": "142",
         "title": "WɔN A WɔAYERA HWEHWƐ",
         "description": "",
+        "ss":"528",
         "hymncontents": [
           {
             "stanza": 1,
@@ -5905,6 +5978,7 @@ export const data = [
         "number": "143",
         "title": "MƐTO ANWASƐM",
         "description": "",
+        "ss":"22",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6019,6 +6093,7 @@ export const data = [
       "number": "145",
       "title": "эBOTAN NO",
       "description": "A hymn focused on the unshakable hope and refuge in Jesus Christ, symbolized as 'the rock.' It reflects on trust and reliance on His righteousness and sacrifice.",
+      "ss":"120",
       "hymncontents": [
         {
           "stanza": 1,
@@ -6061,6 +6136,7 @@ export const data = [
       "number": "146",
       "title": "YESU HO NSεM PII",
       "description": "A hymn that focuses on learning and sharing the message of Jesus, His grace, salvation, and holiness. It encourages reflection on the teachings of Christ and the guidance of the Holy Spirit.",
+      "ss":"43",
       "hymncontents": [
         {
           "stanza": 1,
@@ -6104,6 +6180,7 @@ export const data = [
       "number": "147",
       "title": "FA TWERε NO MA ME",
       "description": "A hymn about asking for God's holy word to guide and enlighten through life's journey. It emphasizes the power of God's word to provide direction, hope, and assurance in times of darkness and weariness.",
+      "ss":"501",
       "hymncontents": [
         {
           "stanza": 1,
@@ -6152,6 +6229,7 @@ export const data = [
       "number": "148",
       "title": "O MEWURA MA ME NE WO NANTE",
       "description": "A prayerful hymn asking for guidance and companionship with the Lord. It expresses a desire to walk in humility, to serve faithfully, and to share God's love with others.",
+      "ss":"164",
       "hymncontents": [
         {
           "stanza": 1,
@@ -6188,6 +6266,7 @@ export const data = [
       "number": "149",
       "title": "KAN WO NHYIRA",
       "description": "A hymn of reflection and thanksgiving, reminding believers to count their blessings in times of distress and trials, and to recognize God's constant care and provision.",
+      "ss":"68",
       "hymncontents": [
         {
           "stanza": 1,
@@ -6234,6 +6313,7 @@ export const data = [
       "number": "150",
       "title": "TIE, εNNE BRεOO NO",
       "description": "A hymn calling for attentiveness to the teachings of Jesus, encouraging believers to take heart in their spiritual journey and to support one another in faith.",
+      "ss":"78",
       "hymncontents": [
         {
           "stanza": 1,
@@ -6327,6 +6407,7 @@ export const data = [
         "number": "152",
         "title": "BƆ MPAE MERE NYINAA",
         "description": "",
+        "ss":"30",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6372,6 +6453,7 @@ export const data = [
         "number": "153",
         "title": "ƆDWENE ME HO",
         "description": "",
+        "ss":"64",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6475,6 +6557,7 @@ export const data = [
         "number": "155",
         "title": "YƐ DEƐ WOPƐ",
         "description": "",
+        "ss":"84",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6526,6 +6609,7 @@ export const data = [
         "number": "156",
         "title": "ABRABɔ FɛɛFɛ",
         "description": "",
+        "ss":"103",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6589,6 +6673,7 @@ export const data = [
         "number": "157",
         "title": "ATWAFOɔ FRƐ",
         "description": "",
+        "ss":"108",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6631,6 +6716,7 @@ export const data = [
         "number": "158",
         "title": "METWERE YESU",
         "description": "",
+        "ss":"378",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6682,6 +6768,7 @@ export const data = [
         "number": "159",
         "title": "YƐ ME NHYIRA KWAN",
         "description": "",
+        "ss":"96",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6736,6 +6823,7 @@ export const data = [
         "number": "160",
         "title": "ABUFUSƐM",
         "description": "",
+        "ss":"112",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6781,6 +6869,7 @@ export const data = [
         "number": "161",
         "title": "KƆ ADWUMA NO SO",
         "description": "",
+        "ss":"113",
         "hymncontents": [
           {
             "stanza": 1,
@@ -6840,6 +6929,7 @@ export const data = [
         "number": "162",
         "title": "MEPƐ SƐ ME YƐ ODWUMAYƐFOɔ",
         "description": "",
+        "ss":"144",
         "hymncontents": [
           {
             "stanza": 1,
