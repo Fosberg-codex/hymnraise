@@ -7675,6 +7675,7 @@ export const data = [
         "number": "178",
         "title": "MONYINA AKO NO",
         "description": "",
+        "ss":"234",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7727,6 +7728,7 @@ export const data = [
         "number": "179",
         "title": "ME GYEFOɔ",
         "description": "",
+        "ss":"246",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7779,6 +7781,7 @@ export const data = [
         "number": "180",
         "title": "O SƐ MƐYƐ SƐ WO",
         "description": "",
+        "ss":"255",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7833,6 +7836,7 @@ export const data = [
       "number": "181",
       "title": "ADOM NWANWA",
       "description": "This hymn reflects on the extraordinary grace of God that saves, comforts, and leads through life's challenges. It highlights how grace brings light to the soul, provides hope, and secures a path for believers to eternal life.",
+      "ss":"257",
       "hymncontents": [
         {
           "stanza": 1,
@@ -7876,6 +7880,7 @@ export const data = [
       "number": "182",
       "title": "YESU ANWANWA DƐ",
       "description": "This hymn expresses deep admiration for the wondrous love and grace of Jesus. It reflects the soul’s gratitude for salvation, peace, and hope through life’s challenges, emphasizing the marvel of Jesus' love.",
+      "ss":"271",
       "hymncontents": [
         {
           "stanza": 1,
@@ -7913,6 +7918,7 @@ export const data = [
       "number": "183",
       "title": "KA TETESƐM NO KYERƐ ME",
       "description": "This hymn is a prayer for deeper understanding of the gospel story. The singer asks to be told the wondrous truth of Jesus’ love and salvation, particularly in times of weariness and doubt, and expresses a need for the constant reminder of Jesus’ role in their salvation.",
+      "ss":"279",
       "hymncontents": [
         {
           "stanza": 1,
@@ -7992,6 +7998,7 @@ export const data = [
       "number": "185",
       "title": "ASAASE A εKOR эN",
       "description": "This hymn reflects on the believer's journey toward heaven, where their faith sustains them despite trials. The singer expresses their desire for God's guidance to lead them to a land of peace, symbolizing heaven.",
+      "ss":"14",
       "hymncontents": [
         {
           "stanza": 1,
@@ -8084,6 +8091,7 @@ export const data = [
       "number": "187",
       "title": "SORO AWIA HANN",
       "description": "This hymn expresses the journey of faith and the joy that comes from walking in the light of Jesus. It speaks about navigating through life's challenges, trusting in Jesus' promises, and rejoicing in the heavenly light that guides and comforts the soul.",
+      "ss":"577",
       "hymncontents": [
         {
           "stanza": 1,
@@ -8121,6 +8129,7 @@ export const data = [
         "number": "188",
         "title": "MƐYƐ BIRIBI AMA YESU",
         "description": "",
+        "ss":"291",
         "hymncontents": [
           {
             "stanza": 1,
@@ -8212,6 +8221,7 @@ export const data = [
         "number": "190",
         "title": "M'ASI MEBO",
         "description": "",
+        "ss":"642",
         "hymncontents": [
           {
             "stanza": 1,
@@ -8275,6 +8285,7 @@ export const data = [
         "number": "191",
         "title": "YEREPEMSO Kɔ",
         "description": "",
+        "ss":"16",
         "hymncontents": [
           {
             "stanza": 1,
@@ -8331,6 +8342,7 @@ export const data = [
         "number": "192",
         "title": "SIESIE WO HO HYIA WO NYAME",
         "description": "",
+        "ss":"633",
         "hymncontents": [
           {
             "stanza": 1,
@@ -8429,6 +8441,7 @@ export const data = [
         "number": "194",
         "title": "YƐDE KRISTO KYERƐ WIASE",
         "description": "",
+        "ss":"572",
         "hymncontents": [
           {
             "stanza": 1,
@@ -8472,6 +8485,7 @@ export const data = [
       "number": "195",
       "title": "Wɔ KALVARY",
       "description": "",
+      "ss":"574",
       "hymncontents": [
         {
           "stanza": 1,
@@ -8520,6 +8534,7 @@ export const data = [
       "number": "196",
       "title": "M'AGYENKWA Dɔ",
       "description": "",
+      "ss":"303",
       "hymncontents": [
         {
           "stanza": 1,
