@@ -6143,6 +6143,648 @@ export const data = [
         ]
       }
     ]
+  },
+  {
+    id: 127,
+    number: 127,
+    title: "HE HIDETH MY SOUL",
+    description: "",
+    twi:"163",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "A wonderful savior is Jesus my Lord\n" +
+          "A wonderful Saviour to me\n" +
+          "He hideth my soul in the cleft of the Rock,\n" +
+          "Where rivers of pleasure I see.\n"
+        ]
+      },
+      {
+        stanza: "Chorus",
+        lines: [
+          "He hideth my soul in the cleft of the Rock\n" +
+          "That shadows a dry, thirsty land;\n" +
+          "He hideth my life in the depth of his love\n" +
+          "And covers me there with his hand\n" +
+          "And covers me there with his hand.\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "A wonderful Savior is Jesus my Lord\n" +
+          "He taketh my burden away\n" +
+          "He holdeth me up and I shall not be moved\n" +
+          "He giveth me strength my day\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "With numberless blessings each moment he crowns\n" +
+          "And filled with his fullness divine\n" +
+          "I sing in my raptures o glory to God\n" +
+          "For shuch a redeemer as mine\n"
+        ]
+      },
+      {
+        stanza: 4,
+        lines: [
+          "When clothed in His brightness, transported I rise\n" +
+          "To meet him in clouds of the sky his perfect salvation\n" +
+          "His wondrous love ill shout with the millions on high.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 144,
+    number: 144,
+    title: "NEARER, STILL NEARER",
+    description: "",
+    twi:"165",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "Neare, still neare close to thy heart\n" +
+          "Draw me, my savior so precious thour art\n" +
+          "Fold me o fold me close to thy breast\n" +
+          "Shelter me safe in that heaven of rest\n" +
+          "Shelter me safe in that heaven of rest\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Neare, still neare, nothing I bring\n" +
+          "Naught as an offring to Jesus my King\n" +
+          "Only my sinful now contrite heart\n" +
+          "Grant me the cleansing thy blood doth impart\n" +
+          "Grant me the cleansing thy blood doth impart.\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "Nearer, still nearer, Lord to be thine\n" +
+          "Sin with its follies I gladly resign\n" +
+          "All of its pleasures pump and its pride\n" +
+          "Give me but Jesus my Lord crucified\n" +
+          "Ever to be, nearer, my Jesus my Lord crucified\n"
+        ]
+      },
+      {
+        stanza: 4,
+        lines: [
+          "Nearer, still nearer, while life shall last\n" +
+          "Till safe in glory my anchor is cast\n" +
+          "Thoendless ages ever to be, nearer, my\n" +
+          "Savior, still nearer to thee, nearer my Savior still\n" +
+          "Nearer to thee.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 146,
+    number: 146,
+    title: "WHAT DID HE DO?",
+    description: "",
+    twi:"166",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "O listen to our wondrous story\n" +
+          "Once we dwelt among the lost\n" +
+          "Yet Jesus came from heaven glory\n" +
+          "Saving us at awful cost\n"
+        ]
+      },
+      {
+        stanza: "Chorus",
+        lines: [
+          "Who saved us from eternal lose?\n" +
+          "What did He do?\n" +
+          "Where is he now?\n" +
+          "In heaven interceding\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "No angel could our place have taken\n" +
+          "Highest of the high tho He\n" +
+          "Nailed to the cross, despised, forsaken\n" +
+          "Was one of the God head three\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "Will you surrender to this Savior?\n" +
+          "Now before Him humbly bow\n" +
+          "You too, shall come to know His favor,\n" +
+          "He will save and save you now.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 176,
+    number: 176,
+    title: "STANDING ON THE PROMISES",
+    description: "",
+    twi:"167",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "Standing on the promises of Christ my King\n" +
+          "Thru eternal ages let his praises ring\n" +
+          "Glory n the highest, I will shout and sing\n" +
+          "Standing on the promises of God\n"
+        ]
+      },
+      {
+        stanza: "Chorus",
+        lines: [
+          "Standing, standing, standing on the promises of God\n" +
+          "My savior, standing I'm standing on the promises of God\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Standing on the promises that cannot fall\n" +
+          "When the howling storms of doubt and fear as sail\n" +
+          "By the living Wordd of God I shall prevail\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "Standing on the promises I now can see\n" +
+          "Perfect, present cleansing in the blood for me\n" +
+          "Standing in the liberty where Christ makes free\n"
+        ]
+      },
+      {
+        stanza: 4,
+        lines: [
+          "Standing on the promises of Christ the Lord\n" +
+          "Bound to Him eternally by love's strong cord\n" +
+          "Overcoming daily with the Spirit's sword.\n"
+        ]
+      },
+      {
+        stanza: 5,
+        lines: [
+          "Standing on the promises I cannot fall,\n" +
+          "Listning ev'ry moment to the Spirit's call\n" +
+          "Resting in my Savior, as my all in all.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 185,
+    number: 185,
+    title: "WHO WILL FOLLOW JESUS?",
+    description: "",
+    twi:"168",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "Who will follow Jesus, Standing for the right\n",
+          "Holding up His banner In the thickest fight?\n",
+          "List'ning for His orders, ready to obey\n", 
+          "Who will follow Jesus, Serving Him today?\n"
+        ]
+      },
+      {
+        stanza: "Chorus",
+        lines: [
+          "Who will follow Jesus? Who will make reply,\n",
+          "'I am on the Lord's side, master here am i?\n",
+          "Who will follow Jesus? Who will make reply,\n",
+          "'I am on the Lord's side.\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Who will follow Jesus, In life's busy ways\n",
+          "Working for the Master, giving Him the praise\n",
+          "Earnest in His vineyard, honoring his laws\n",
+          "Faithful to his counsel, watchful for his cause?\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "Who will follow Jesus, when the temperature charms\n",
+          "Fleeing, then for safety to the savior's arms\n",
+          "Trusting in His mercy, trusting in His pow'r\n",
+          "Seeding fresh renewals of his grace each hour?\n"
+        ]
+      },
+      {
+        stanza: 4,
+        lines: [
+          "Who will follow Jesus In His work of love,\n",
+          "Leading others to Him\n",
+          "Lifting prayers above?\n",
+          "Courage, faithful servant\n",
+          "In his word we see, on our side for ever\n",
+          "Will this savior be?\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 190,
+    number: 190,
+    title: "LEANING ON THE EVERLASTING ARMS",
+    description: "",
+    twi:"170",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "What a fellowship what a joy divine,\n",
+          "Leaning on the everlasting arms\n",
+          "What a blessedness, what a peace is mine,\n",
+          "Leaning on the everlasting arms.\n"
+        ]
+      },
+      {
+        stanza: "Chorus",
+        lines: [
+          "Leaning, leaning\n",
+          "Safe and secure from all alarms\n",
+          "Leaning on the everlasting arms.\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "O how sweet to walk in this pilgrim way,\n",
+          "Leaning on the everlasting arms\n",
+          "O how bright the path grows from day to day,\n",
+          "Leaning on the everlasting arms\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "What have I to dread, what have I to fear,\n",
+          "Leaning on the everlasting arms\n",
+          "I have blessed peace with my Lord so near\n",
+          "Leaning on the everlasting arms\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 191,
+    number: 191,
+    title: "I'LL GO WHERE YOU WANT ME TO GO",
+    description: "",
+    twi:"171",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "It may not be on the mountain's height,\n",
+          "Or over the stormy sea\n",
+          "It may not be at the battle's front\n",
+          "My Lord will have need of me\n",
+          "But if I am needed anywhere,\n",
+          "In paths that I do not know\n",
+          "I'll answer, dear Lord, with my hand in Thine\n",
+          "I'll go where you want me to go.\n"
+        ]
+      },
+      {
+        stanza: "Chorus",
+        lines: [
+          "I'll go where you want me to go\n",
+          "Over mountain, or plain or sea\n" 
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Perhaps today there are loving words\n",
+          "Which Jesus would have me speak\n",
+          "There may be now in the paths of sin\n",
+          "Some wand'rer whom I should seek\n",
+          "O Savior, if thou wilt be my guide\n",
+          "Tho'dark and rugged the way\n",
+          "My voice shall echo thy message sweet\n",
+          "I'll say what you want me to say.\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "There's surely somewhere a lowly place\n",
+          "In earth's harvest fields so wide\n",
+          "Where I may labor thro'life's short day\n",
+          "For Jesus, the Crucified\n",
+          "So trusting my all to Thy tender care\n",
+          "And knowing thou lovest me\n",
+          "I'll do thy will with a heart sincere\n",
+          "I'll be what you want me to be.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 289,
+    number: 289,
+    title: "THE BREAKING OF BREAD",
+    description: "",
+    twi:"172",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "Dear Lord, we break the bread,\n",
+          "In memory, of that great sacrifice on Calvary\n",
+          "This we do each Lord's day,\n",
+          "As Christ hast said,\n",
+          "bless all disciples now who break the bread.\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Bless thou the cup dear Lord,\n",
+          "To us this day, may we with hearts prepared\n",
+          "His word obey, we now his death proclaim\n",
+          "In his own way, until he comes again,\n",
+          "We keep this day.\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "Our Savior now doth reign\n",
+          "In heaven above, death's pow'r He overcame\n",
+          "Such matchless love; to heav'n he did ascend\n",
+          "There He's enthroned, he is our dearest friend\n",
+          "For us atoned.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 207,
+    number: 207,
+    title: "THE LILY OF THE VALLEY",
+    description: "",
+    twi:"173",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "I have found a friend in Jesus, he's everything to me\n" +
+          "He's the fairest of ten thousand to my soul\n" +
+          "The lily of the valley, in Him alone I see\n" +
+          "All I need to cleanse and make me fully whole\n" +
+          "In sorrow he's my comfort, in trouble he's my stay\n" +
+          "He tells me every care on Him to roll\n" +
+          "He's the bright and morning star, he's the fairest of\n" + 
+          "Ten thousand to my soul\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "O He all my griefs has taken and all my sorrows home,\n" +
+          "In temptation he' s my strong and mighty tow'r\n" +
+          "I have all for him forsaken and all my idols torn\n" +
+          "From my heart, and now he keeps me by His pow'r\n" +
+          "Tho all the world forsake me, and Satan tempt me sore\n" +
+          "Thru Jesus I shall safely reach the goal,\n" +
+          "He's the bright and morning star, he's the fairest of\n" +
+          "Ten thousand to my soul.\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "He will never, never leave me, nor yet forsake me here\n" +
+          "While I live by faith and do His blessed will\n" +
+          "A wall of fire about me, I've nothing now to fear,\n" +
+          "With His manna He my hungry soul shall fill.\n" +
+          "Then sweeping up to glory to see His blessed face\n" +
+          "Where rivers of delight shall ever roll,\n" +
+          "He's the bright and morning star, he's the fairest of\n" +
+          "Ten thousand to my soul.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 212,
+    number: 212,
+    title: "THE CHURCH OF GOD",
+    description: "",
+    twi:"174",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "God's family is his church divine\n" +
+          "Begun, sustained by his wise design,\n" +
+          "The ark of age and the shrine of youth\n" +
+          "From her alone goes the word of truth.\n"
+        ]
+      },
+      {
+        stanza: "Chorus",
+        lines: [
+          "The church of Christ\n" +
+          "Redeemed by His blood\n" +
+          "What a purchase price\n" +
+          "The kingdom of God and the saints'abode\n" +
+          "The realm of life for the sons of God.\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Beyond are those who have conquered death\n" +
+          "Below are they who abide in faith\n" +
+          "The twain you host and the saints of earth\n" +
+          "One household are by a holy birth.\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "What glory there, o what blessings here\n" +
+          "One hope, on Lord and His name to wear\n" +
+          "One church, one creed, meeting ev'ry need\n" +
+          "All nations blest by His righteous seed.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 216,
+    number: 216,
+    title: "A MIGHTY FORTRESS",
+    description: "",
+    twi:"175",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "A mighty fortress is our God.\n" +
+          "A bulwark never failing\n" +
+          "Our helper He, amid the flood\n" +
+          "Of mortal ills prevailing, For still our ancient foe\n" +
+          "Doth seek to work us woe\n" +
+          "His craft and pow'r are great\n" +
+          "And armed with cruel hate,\n" +
+          "On earth is not his equal\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Did we in our own strength confide\n" +
+          "Our striving would be losing\n" +
+          "Were not the right one on our side\n" +
+          "The man of God's own choosing\n" +
+          "Dost ask who that may be?\n" +
+          "Christ Jesus, it is he\n" +
+          "Lord Sabaoth His name\n" +
+          "From age to age the same\n" +
+          "And he must win the battle.\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "And tho' this world with evil filled\n" +
+          "Should threaten to undo us\n" +
+          "We will not fear, for God hath\n" +
+          "Willed his truth to triumph through us\n" +
+          "Let goods and kindred go,\n" +
+          "This mortal life also\n" +
+          "The body they may kill\n" +
+          "God's truth abideth still ,\n" +
+          "His kingdom is forever.\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 219,
+    number: 219,
+    title: "THE BANNER OF THE CROSS",
+    description: "",
+    twi:"176",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "There's a royal banner given for display\n" +
+          "To the soldier of the King\n" +
+          "As an ensign fair we lift it up, today\n" +
+          "While as ransomed ones we sing\n"
+        ]
+      },
+      {
+        stanza: "Chorus",
+        lines: [
+          "Marching on, marhing on\n" +
+          "For Christ count everything but loss\n" +
+          "For the King of Kings toil and sing\n" +
+          "Neath the banner of the cross\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Tho'the foe may rage and gather as the flood\n" +
+          "Let the standard be displayed\n" +
+          "And beneath its folds, as soldiers of the Lord\n" +
+          "For the truth be not dismayed\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "Over land and sea, wherever man may dwell\n" +
+          "Make the glorious tidings known;\n" +
+          "Of the crimson banner now the story tell\n" +
+          "While the Lord shall claim His own\n"
+        ]
+      },
+      {
+        stanza: 4,
+        lines: [
+          "When the Great Commander, from the vaulted sky,\n" +
+          "Sounds the resurrection day,\n" +
+          "Then before our King the faint and foe shall die\n" +
+          "And the saints shall march away\n"
+        ]
+      }
+    ]
+  },
+  {
+    id: 298,
+    number: 298,
+    title: "JESUS CALLS US",
+    description: "",
+    twi:"177",
+    hymncontents: [
+      {
+        stanza: 1,
+        lines: [
+          "Jesus calls us o'er the tumult of our life's wild\n" +
+          "restless sea\n" +
+          "day by day his sweet voice soundeth, saying\n" +
+          "Christian follow me\n"
+        ]
+      },
+      {
+        stanza: 2,
+        lines: [
+          "Jesus calls us from the worship\n" +
+          "Of the vain world's golden store\n" +
+          "From each I do that would keep us\n" +
+          "Saying Christian, love me more\n"
+        ]
+      },
+      {
+        stanza: 3,
+        lines: [
+          "In our joys and in our sorrows,\n" +
+          "Days of toil and hours of ease\n" +
+          "Still He calls, in cares and pleasures,\n" +
+          "Christian, love me more than these\n"
+        ]
+      },
+      {
+        stanza: 4,
+        lines: [
+          "Jesus calls us: by thy mercies\n" +
+          "Savior, make us hear thy call\n" +
+          "Give our hearts to thine obedience\n" +
+          "Serve and love thee best of all\n"
+        ]
+      }
+    ]
   }
 
 

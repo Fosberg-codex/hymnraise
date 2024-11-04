@@ -6988,6 +6988,7 @@ export const data = [
         "number": "163",
         "title": "ɔDE MEKRA SIE",
         "description": "",
+        "ss":"127",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7041,6 +7042,7 @@ export const data = [
         "number": "164",
         "title": "MEHIA YESU",
         "description": "",
+        "ss":"",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7090,6 +7092,7 @@ export const data = [
         "number": "165",
         "title": "WONKYɛN NKO ARA",
         "description": "",
+        "ss":"144",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7139,6 +7142,7 @@ export const data = [
         "number": "166",
         "title": "ɔYƐƐ DEƐN?",
         "description": "",
+        "ss":"146",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7183,6 +7187,7 @@ export const data = [
         "number": "167",
         "title": "MEGYINA BɔHYƐ NO SO",
         "description": "",
+        "ss":"176",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7225,6 +7230,7 @@ export const data = [
         "number": "168",
         "title": "HWAN NA ɔBƐDI YESU AKYI?",
         "description": "",
+        "ss":"185",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7273,6 +7279,7 @@ export const data = [
         "number": "170",
         "title": "METWERE BASA A ƐNWU DA NO",
         "description": "",
+        "ss":"190",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7319,6 +7326,7 @@ export const data = [
         "number": "171",
         "title": "MƐKɔ DEƐ WO PƐ SƐ MEKɔ",
         "description": "",
+        "ss":"191",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7374,6 +7382,7 @@ export const data = [
         "number": "172",
         "title": "PAANOO NO BUBUO",
         "description": "",
+        "ss":"289",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7408,6 +7417,7 @@ export const data = [
         "number": "173",
         "title": "BɔNHWA MU SUKOOKO",
         "description": "",
+        "ss":"207",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7464,6 +7474,7 @@ export const data = [
         "number": "174",
         "title": "NYAME ASAFO",
         "description": "",
+        "ss":"212",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7506,6 +7517,7 @@ export const data = [
         "number": "175",
         "title": "ABAN KƐSE",
         "description": "",
+        "ss":"216",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7555,6 +7567,7 @@ export const data = [
         "number": "176",
         "title": "ASƐNDUA FRANKAA",
         "description": "",
+        "ss":"219",
         "hymncontents": [
           {
             "stanza": 1,
@@ -7607,6 +7620,7 @@ export const data = [
         "number": "177",
         "title": "YESU FRƐ YƐN",
         "description": "",
+        "ss":"298",
         "hymncontents": [
           {
             "stanza": 1,
