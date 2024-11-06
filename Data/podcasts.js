@@ -1,6 +1,6 @@
 export const podcasts = [
   {
-     id:'1',
+     id:1,
     title: 'Maranatha podcast',
     description: 'Podcast 1 Description',
     days:'sundays and wednesdays',

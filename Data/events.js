@@ -1,6 +1,6 @@
 export const events = [
     {
-        id:'1',
+        id:1,
         name:"Salvation Conference",
         description:"Come and listen to wonderful brothers in christ. Featuring Brother Asiamah and other ministers",
         location:"Online",
@@ -11,7 +11,7 @@ export const events = [
         link2:"https://www.google.com",
     },
     {
-        id:'2',
+        id:1,
         name:"Salvation Conference",
         description:"Come and listen to wonderful brothers in christ. Featuring Brother Asiamah and other ministers",
         location:"Sunyani",

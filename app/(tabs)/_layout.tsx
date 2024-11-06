@@ -8,10 +8,14 @@ export default function TabLayout() {
     <Tabs
       tabBar={(props) => <TabBar {...props} />}
       screenOptions={({ route }) => ({
+        tabBarHideOnKeyboard: true,
+        keyboardHidesTabBar: true,
+        
         tabBarActiveTintColor: "blue",
         // Hide the tab bar on the index page
         tabBarStyle: route.name === 'index' ? { display: 'none' } : undefined,
       })}
+     
     >
       {/* Remove the Tabs.Screen for "index" */}
       <Tabs.Screen

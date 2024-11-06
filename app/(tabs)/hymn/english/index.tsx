@@ -87,12 +87,12 @@ export default function Home() {
         renderItem={({ item }) => (
                 <TouchableOpacity
             className="p-4 m-rounded-lg"
-            onPress={() => router.push(`/hymn/english/${item.id}`)}
+            onPress={() => router.push(`/hymn/english/${item.number}`)}
           >
             <View className='bg-cardcolor px-4 py-2 flex justify-between flex-row gap-2 mb-1 rounded-md '>
             <View className='flex flex-col gap-1'>
             <Text className="text-black text-base font-bold">{item.title}</Text>
-            <Text className="text-black text-md flex flex-row justify-end">Humn {item.number}</Text>
+            <Text className="text-black text-md flex flex-row justify-end">SS {item.number}</Text>
             </View>
 
             <View className='flex items-end justify-end'>

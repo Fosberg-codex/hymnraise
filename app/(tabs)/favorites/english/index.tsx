@@ -30,7 +30,7 @@ export default function Favorites() {
       <View className='flex flex-row items-center gap-3'>
         <Pressable onPress={() => router.push('/favorites/')}><Text className='font-semibold  border  px-2 py-1 rounded-full  border-deep/40'>Twi</Text></Pressable>
         <Pressable onPress={() => router.push('/favorites/english')}><Text className='font-semibold rounded-full bg-deep text-bgcolor  px-2 py-1'>English</Text></Pressable>
-        <Pressable onPress={() => router.push('/favorites/english')}><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>Ga</Text></Pressable>
+        {/* <Pressable onPress={() => router.push('/favorites/english')}><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>Ga</Text></Pressable> */}
       </View>
 
       <View className='flex flex-row gap-6 items-center w-full mb-2'>

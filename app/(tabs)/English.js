@@ -7589,16 +7589,5 @@ export const data = [
       }
     ]
   }
-
-
-
-  
-  
-
-  
-
-
-
-    // Add more hymns here...
   ];
   
