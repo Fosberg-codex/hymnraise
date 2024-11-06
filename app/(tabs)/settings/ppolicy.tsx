@@ -64,7 +64,7 @@ const PrivacyPolicyScreen = () => {
           </Text>
         </View>
 
-        <View className="border border-deep/20 rounded-lg shadow-sm p-4 mt-6">
+        <View className="border border-deep/20 rounded-lg shadow-sm p-4 mt-6 mb-24">
           <Text className="text-lg text-primeg/90">
             For more information or to exercise your rights, please contact us at support@hymnraise.com.
           </Text>

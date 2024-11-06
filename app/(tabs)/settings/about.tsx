@@ -66,7 +66,7 @@ const about = () => {
           </Text>
         </View>
 
-        <Text className="text-primeg mt-2">
+        <Text className="text-primeg mt-2 mb-24">
           Join the Church Of Christ and use Hymn Raise.
         </Text>
       </View>
