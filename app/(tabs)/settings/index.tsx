@@ -5,6 +5,7 @@ import { AntDesign, MaterialIcons } from '@expo/vector-icons'
 import { useRouter } from 'expo-router'
 // import { ScrollView } from 'react-native-gesture-handler'
 import { ScrollView } from 'react-native'
+import { Linking } from 'react-native'
 
 
 type userData = {
@@ -116,16 +117,13 @@ const index = () => {
         </View>
 
         <View className='flex flex-col justify-center items-start gap-4 px-3 py-2 mb-4 rounded-md w-full mt-2 border border-deep/20  '>
-        <View className='flex flex-row justify-between items-center w-full '>
+        <Pressable onPress={() => Linking.openURL('tel:+233552412180')} className='flex flex-row justify-between items-center w-full '>
                <View className='flex flex-row gap-2 items-center'>
                <MaterialIcons name="star-rate" size={16} color="#2c1810" style={{ marginRight: 20 }} />
-                <Text>Rate us</Text>
+                <Text>Give us feedback</Text>
                </View>
                <AntDesign name="right" size={16} color="#2c1810" style={{ marginRight: 20 }} />
-
-
-
-            </View>
+            </Pressable>
         <Pressable onPress={onShare} className='flex flex-row justify-between items-center w-full  '>
                <View className='flex flex-row gap-2 items-center '>
                <AntDesign name="sharealt" size={16} color="#2c1810" style={{ marginRight: 20 }} />
@@ -135,20 +133,18 @@ const index = () => {
 
 
             </Pressable>
-            <View className='flex flex-row justify-between items-center w-full border-b border-deep/20 pb-2 '>
+            <Pressable onPress={() => Linking.openURL('tel:+233552412180')} className='flex flex-row justify-between items-center w-full border-b border-deep/20 pb-2 '>
                <View className='flex flex-row gap-2 items-center'>
                <Octicons name="apps" size={16} color="#2c1810" style={{ marginRight: 20 }} />
                 <Text className='font-bold'>Need a mobile app or website?</Text>
                </View>
                <AntDesign name="right" size={16} color="#2c1810" style={{ marginRight: 20 }} />
-
-
-            </View>
-            <View className='flex flex-row justify-center items-center w-full rouded-md gap-1 bg-primeg rounded-md py-1 '>
+            </Pressable>
+            
+            <Pressable onPress={() => Linking.openURL('tel:+233552412180')} className='flex flex-row justify-center items-center w-full rouded-md gap-1 bg-primeg rounded-md py-1 '>
             <Text className='text-deep'>Contact us</Text>
             <MaterialIcons name="call" size={16} color="#2c1810" style={{ marginRight: 20 }} />
-
-            </View>
+            </Pressable>
         </View>
         
         

@@ -19,7 +19,7 @@ const language = () => {
           <Text className="text-primeg/90 mb-4">
             COC HymnRaise support the following language versions. 
           </Text>
-          <Text className='text-deep font-semibold'>Twi, English and Ga</Text>
+          <Text className='text-deep font-semibold'>Twi, English and Ga(Coming soon)</Text>
         </View>
       </View>
     </ScrollView>

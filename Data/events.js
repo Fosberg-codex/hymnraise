@@ -11,9 +11,9 @@ export const events = [
         link2:"https://www.google.com",
     },
     {
-        id:1,
+        id:2,
         name:"Salvation Conference",
-        description:"Come and listen to wonderful brothers in christ. Featuring Brother Asiamah and other ministers",
+        description:"Come and listen to wonderful brothers in christ. Featuring Brother Asiamah and other ministers", 
         location:"Sunyani",
         date:"2020-01-01",
         duration:"2 days",

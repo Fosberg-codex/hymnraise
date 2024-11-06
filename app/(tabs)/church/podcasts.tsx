@@ -29,11 +29,11 @@ const index = () => {
                 <Pressable key={item.id} onPress={()=>{router.push(`${item.link1}`)}} className='flex flex-row gap-1 justify-between items-center px-4 py-2 mx-4 mb-3 rounded bg-deep/20'>
                 <View>
                   <Image
-                  style={{ height: 70, width: 75, borderRadius: 5 }}
-                  source={require(`.../../../assets/images/podcast.jpeg`)}
-                  contentFit="cover"
-                  transition={1000}
-                />
+                    style={{ height: 70, width: 75, borderRadius: 5 }}
+                    source={item.image} 
+                    contentFit="cover"
+                    transition={1000}
+                  />
                 </View>
                  
                   <View className='flex flex-col gap-1 justify-center'>

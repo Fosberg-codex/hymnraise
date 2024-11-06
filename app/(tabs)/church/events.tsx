@@ -38,7 +38,7 @@ const index = () => {
                     
                     <View className='flex flex-row gap-1 items-center'>
                       <Ionicons name="time" size={18} color="#2c1810" />
-                      <Text className='text-sm'>{item.duration}</Text>
+                      <Text className='text-sm'>{item.duration} left</Text>
                     </View>
                   </View>
                   <Text>Location: {item.location}</Text>

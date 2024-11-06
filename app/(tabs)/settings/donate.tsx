@@ -14,13 +14,13 @@ const language = () => {
 
         <View className="border border-deep/20 rounded-lg shadow-sm p-4 mb-4">
           <Text className="text-lg font-semibold text-primeg mb-2">
-            Accounts to donate to the HymnRaise Project
+            Donate to the HymnRaise Project. We need funds to keep the project running on ios (costs $1,000 a year).
           </Text>
           <View className='flex flex-col gap-1 justify-center mb-4' >
           <Text className="text-primeg/90">MTN MoMO: 0552412180</Text>
           <Text className="text-primeg/90">Tigo Cash: 0552412180</Text>
           </View>
-          <Text className='text-deep font-semibold'>Thanks for your support1</Text>
+          <Text className='text-deep font-semibold'>God bless you for your support</Text>
         </View>
       </View>
     </ScrollView>
