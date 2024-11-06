@@ -54,7 +54,7 @@ export default function Home() {
         
         <Pressable onPress={() =>{router.replace('/hymn/')}} ><Text className='font-semibold rounded-full border border-deep/40  px-2 py-1'>Twi</Text></Pressable>
         <Pressable onPress={() =>{router.replace('/hymn/english')}} ><Text className='font-semibold rounded-full text-bgcolor  bg-deep border px-2 py-1'>English</Text></Pressable>
-        <Pressable onPress={() =>{router.replace('/hymn/english')}} ><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>Ga</Text></Pressable>
+        {/* <Pressable onPress={() =>{router.replace('/hymn/english')}} ><Text className='font-semibold rounded-full border border-deep/40 px-2 py-1'>Ga</Text></Pressable> */}
       </View>
     
     {/* <FlashList
