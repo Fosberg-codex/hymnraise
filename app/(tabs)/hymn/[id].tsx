@@ -47,7 +47,7 @@ export default function HymnDetail() {
       </View>
       <ScrollView className="flex-1" key={hymn.id}>
         <Text style={{ fontSize: fontSize + 4 }} className="font-bold mt-4 self-center text-center">{hymn.title}</Text>
-        <View className='flex flex-col items-center'>
+        <View className='flex flex-col items-center mb-24'>
           {hymn && hymn.hymncontents?.map((content, index) => (
             <View key={index} className="mt-4">
               <Text style={{ fontSize: fontSize + 2 }} className="font-bold text-center">{content.stanza}</Text>

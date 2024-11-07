@@ -7,7 +7,6 @@ export const resources =[
         link1: "https://www.google.com",
         link2: "https://www.google.com",
         link3: "https://www.google.com",
-
     },
     {
         id:2,
@@ -17,6 +16,5 @@ export const resources =[
         link1: "https://www.google.com",
         link2: "https://www.google.com",
         link3: "https://www.google.com",
-
     }
 ]

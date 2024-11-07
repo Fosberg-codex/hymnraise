@@ -51,7 +51,7 @@ const index = () => {
         <View className='flex flex-col gap-2 justify-center items-center px-6 py-2'>
         {/* <FontAwesome6 name="bars-staggered" size={24} color="#2c1810" style={{ marginRight: 20 }} /> */}
         <FontAwesome6 name="user-circle" size={45} color="#2c1810" />
-         <Text>Welcome to COC HymnRaise</Text>
+         <Text className='font-semibold'>Welcome to COC HymnRaise</Text>
         </View>
         <View className='flex flex-col justify-center items-start gap-4 px-3 py-2 mb-4 rounded-md w-full mt-2 border border-deep/20 '>
         
