@@ -53,21 +53,21 @@ const about = () => {
             Key app features
           </Text>
           <Text className="text-primeg self-start">
-          Explore Hymns
+          -Explore Hymns
           </Text>
           <Text className="text-primeg self-start">
-            Add Hymns for favorites
+            -Add Hymns for favorites
           </Text>
           <Text className="text-primeg self-start">
-          ⁠view up coming church events
+          ⁠-View up coming church events
           </Text>
           <Text className="text-primeg self-start">
-          ⁠  Explore church podcasts, upcoming events, resources and more.
+          ⁠ -Explore church podcasts, upcoming events, resources and more.
           </Text>
         </View>
 
-        <Text className="text-primeg mt-2 mb-24">
-          Join the Church Of Christ and use Hymn Raise.
+        <Text className="flex justify-center items-center text-primeg mt-2 mb-24">
+          Join the Churches Of Christ.
         </Text>
       </View>
     </ScrollView>

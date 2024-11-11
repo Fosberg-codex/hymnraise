@@ -19,16 +19,16 @@ const index = () => {
         
       </View>
 
-      <View className="border border-deep/20 rounded-lg shadow-sm p-4 mb-4 mx-4">
+       <View className="border border-deep/20 rounded-lg shadow-sm p-4 mb-4 mx-4">
           <Text className="text-xl font-semibold text-primeg mb-1">
             Support Bia Lamplighter Girls School Project
           </Text>
           <Text className='text-sm'>
-          Bia lamplighter is a school project that aims to help girls in the community. Founded by Dr. Augustine Tawiah, a preacher of Christ and Dr. Anita Lynn Tawiah
+          Bia lamplighter is a school project that aims to groom and educate young girls in the community based on christian values. Founded by Dr. Augustine Tawiah, a preacher of Christ and Dr. Anita Lynn Tawiah, Dr. Augustine's Wife
           </Text>
 
           <View className='flex flex-col gap-1 justify-center mb-4 mt-2' >
-          <Text className="text-bgcolor rounded-md bg-deep/60 px-2 py-1">MTN MoMO: 0552412180, Tigo Cash: 0552412180</Text>
+          <Text className="text-bgcolor rounded-md bg-deep/60 px-2 py-1">MTN MoMO: 0552412180</Text>
           <Text>Call Brother Augustine at: 0552412180 to learn more</Text>
           </View>
           <Text className='text-deep font-semibold'>Thanks for your support</Text>
